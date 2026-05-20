@@ -1,0 +1,187 @@
+# Configuración de Voz — ElevenLabs
+## Canal: [Nombre del canal]
+**Última actualización:** 20 de mayo de 2026
+
+---
+
+## Objetivo de la voz
+
+Sonar como alguien que te cuenta algo que le parece fascinante en una conversación íntima.
+**NO** como locutor de documental. **NO** como presentador de noticias. **NO** como narrador de audiolibro.
+
+La referencia de tono es: un amigo inteligente que acaba de descubrir algo que le voló la cabeza y te lo está contando de noche, sentado frente a ti.
+
+---
+
+## Voz seleccionada
+
+| Campo | Valor |
+|---|---|
+| **Plataforma** | ElevenLabs |
+| **Nombre de la voz** | [Rellenar tras pruebas — ver candidatas abajo] |
+| **ID de voz** | [Rellenar] |
+| **Idioma** | Español (ES / LATAM — decidir) |
+| **Género** | Masculino |
+| **Tono base** | Cálido, medio, ligeramente cercano |
+
+### Candidatas a probar (voces ElevenLabs en español)
+
+Probar estas voces con el mismo fragmento de guion (ver sección "Texto de prueba" al final):
+
+- **Antoni** — voz masculina cálida, buen español
+- **Mateo** — voz nativa en español, calidez media
+- **Valentín** — voz masculina con buen rango emocional
+- **Brian** — alternativa si se prefiere tono más grave
+- Cualquier voz clonada propia si se decide ese camino
+
+> **Criterio de selección:** La voz ganadora es la que suena más natural en frases cortas entrecortadas y en preguntas retóricas. Si suena bien leyendo el texto de prueba, funcionará en todo el canal.
+
+---
+
+## Configuración de parámetros
+
+### Panel de ajustes en ElevenLabs
+
+| Parámetro | Valor recomendado | Por qué |
+|---|---|---|
+| **Stability** | 0.35 – 0.45 | Más variación natural entre frases. Evita el efecto "robot monótono". |
+| **Similarity Boost** | 0.80 – 0.85 | Alta fidelidad a la voz base sin perder expresividad. |
+| **Style** | 0.20 – 0.30 | Algo de estilo sin exagerar. Si se sube mucho suena sobreactuado. |
+| **Speaker Boost** | ON | Mejora la claridad en frases cortas y pausas. |
+
+> ⚠️ **Importante:** Estos valores son el punto de partida. Tras escuchar los primeros 3 videos, afinar si algo suena forzado. Anotar los ajustes finales en la tabla de "Versión aprobada" abajo.
+
+### Versión aprobada (rellenar tras validar)
+
+| Parámetro | Valor final aprobado |
+|---|---|
+| Voz | — |
+| Stability | — |
+| Similarity Boost | — |
+| Style | — |
+| Speaker Boost | — |
+| Modelo | Eleven Multilingual v2 / Eleven Turbo v2 |
+
+---
+
+## Reglas de puntuación en el guion
+
+ElevenLabs lee la puntuación tal como está escrita. Estas reglas garantizan que la voz suene natural sin retocar el audio manualmente.
+
+### Pausas
+
+| Efecto deseado | Cómo escribirlo en el guion |
+|---|---|
+| Pausa corta (énfasis) | Coma `,` |
+| Pausa media (cambio de idea) | Punto `.` |
+| Pausa larga (impacto dramático) | Punto + línea en blanco entre párrafos |
+| Pausa muy larga (momento de suspense) | `...` o punto y aparte con línea extra |
+| Pausa deliberada tipo Zenn | Frase corta sola en su propio párrafo. |
+
+### Énfasis y tono
+
+| Efecto deseado | Cómo escribirlo |
+|---|---|
+| Énfasis fuerte en palabra | MAYÚSCULAS en esa palabra |
+| Pregunta retórica | Terminar con `?` (ElevenLabs sube el tono) |
+| Tono bajando (cierre reflexivo) | Frase corta + punto final |
+| Aceleración narrativa | Frases muy cortas seguidas sin pausas largas |
+| Desaceleración (momento clave) | Frase + pausa + frase corta de impacto |
+
+### Ejemplo de puntuación aplicada
+
+```
+Esta noche, cuando el sol se ponga, vas a encender una luz.
+
+No vas a pensarlo ni un segundo.
+
+Pero durante el 99,9% de la historia humana... esa opción no existía.
+
+Cuando oscurecía, el mundo se apagaba.
+
+COMPLETAMENTE.
+```
+
+---
+
+## Tono por sección del video
+
+Cada video tiene tres fases emocionales. La voz debe reflejarlas:
+
+| Sección | Minuto aprox. | Tono de voz | Ritmo |
+|---|---|---|---|
+| **Hook** (gancho) | 0:00 – 0:45 | Íntimo, casi susurrado. Como revelando un secreto. | Lento, con pausas dramáticas |
+| **Desarrollo** (ciencia) | 0:45 – 6:00 | Curioso, algo más energético. Cuenta hallazgos. | Medio, variado |
+| **Cierre** (reflexión) | 6:00 – fin | Calmado, filosófico, ligeramente melancólico | Lento, con pausas al final |
+
+---
+
+## Música de fondo y mezcla de audio
+
+La voz de ElevenLabs va mezclada con música. Estas son las reglas de mezcla para que la voz siempre se entienda con claridad:
+
+| Elemento | Volumen relativo |
+|---|---|
+| Voz | 0 dB (referencia) |
+| Música durante desarrollo | -18 dB a -20 dB |
+| Música durante hook | -14 dB a -16 dB (más presente, más tensión) |
+| Música durante cierre | -20 dB a -22 dB (se retira, la voz protagoniza) |
+| Efectos de sonido puntuales | -10 dB a -12 dB |
+
+**Tipo de música recomendada:**
+- Ambient minimalista, sin letra
+- Referencia de estilo: Hans Zimmer (Interstellar), música de meditación oscura, drone ambiental
+- Evitar: música de YouTube "epicidad" con percusión fuerte — rompe la intimidad del formato
+
+**Fuentes de música libre de derechos:**
+- Epidemic Sound (recomendado para YouTube)
+- Artlist
+- YouTube Audio Library (gratis pero más limitado)
+
+---
+
+## Checklist antes de exportar cada audio
+
+- [ ] Voz generada con los parámetros de la tabla "Versión aprobada"
+- [ ] Escuchar completo antes de exportar — detectar palabras que soenen raras
+- [ ] Si una frase suena mal: reescribir la puntuación (no regenerar igual)
+- [ ] Volumen normalizado a -14 LUFS (estándar YouTube)
+- [ ] Sin clipping en ningún momento
+- [ ] Silencio al inicio y al final del audio (0.5 segundos)
+
+---
+
+## Texto de prueba para selección de voz
+
+Usar este fragmento exacto para comparar candidatas. Es representativo del tono, ritmo y puntuación del canal:
+
+```
+Esta noche, cuando el sol se ponga, vas a encender una luz.
+
+No vas a pensarlo ni un segundo.
+
+Pero durante el 99,9% de la historia humana... esa opción no existía.
+
+Cuando oscurecía, el mundo se apagaba.
+
+COMPLETAMENTE.
+
+Y sin embargo, cada uno de tus ancestros sobrevivió a esa oscuridad.
+
+Noche tras noche.
+
+Durante 300.000 años.
+
+¿Qué hacían?
+
+La respuesta cambia todo lo que crees saber sobre el sueño, el fuego, y lo que significa ser humano.
+```
+
+---
+
+## Historial de cambios
+
+| Fecha | Cambio | Motivo |
+|---|---|---|
+| 20 mayo 2026 | Creación del documento | Setup inicial del canal |
+| — | — | — |
