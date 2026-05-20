@@ -20,7 +20,7 @@ La referencia de tono es: un amigo inteligente que acaba de descubrir algo que l
 | **Plataforma** | ElevenLabs |
 | **Nombre de la voz** | [Rellenar tras pruebas — ver candidatas abajo] |
 | **ID de voz** | [Rellenar] |
-| **Idioma** | Español (ES / LATAM — decidir) |
+| **Idioma** | Español de España (castellano) |
 | **Género** | Masculino |
 | **Tono base** | Cálido, medio, ligeramente cercano |
 
@@ -166,15 +166,9 @@ Cuando oscurecía, el mundo se apagaba.
 
 COMPLETAMENTE.
 
-Y sin embargo, cada uno de tus ancestros sobrevivió a esa oscuridad.
+¿Qué hacían tus ancestros?
 
-Noche tras noche.
-
-Durante 300.000 años.
-
-¿Qué hacían?
-
-La respuesta cambia todo lo que crees saber sobre el sueño, el fuego, y lo que significa ser humano.
+La respuesta cambia todo lo que crees saber sobre el sueño.
 ```
 
 ---
