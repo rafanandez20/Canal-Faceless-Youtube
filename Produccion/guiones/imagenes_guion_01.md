@@ -9,7 +9,7 @@
 - `ICONO` — stickman simple, 1 acción (4–5 seg)
 - `ESCENA` — ilustración elaborada, momento ancla (7–10 seg)
 
-**Estado:** Imágenes 1 y 2 completadas.
+**Estado:** Imágenes 1, 2, 3, 5, 6, 14, 18, 21, 24, 25, 30, 31, 33, 38, 51, 54, 56, 57, 68, 72, 75, 76, 77 y 83 completadas.
 
 ---
 
@@ -19,10 +19,10 @@
 |-----|------|--------|--------------------|
 | 1 ✓ | ESCENA | 13–15 | Stickman caminando a farmacia, estantes con medicamentos, cajón con ibuprofeno |
 | 2 ✓ | ICONO | 17–19 | Stickman señalando su cuerpo "me duele aquí" → burbuja → "en menos de una hora, pasado" |
-| 3 | ICONO | 21 | Barra de progreso horizontal que ocupa todo el ancho de la imagen: el 99% izquierdo relleno en negro sólido, el 1% final derecho en blanco. Un punto rojo parpadeante marca el extremo derecho con la etiqueta 'AHORA'. Debajo de la barra, el número '99%' centrado en grande. Fondo blanco. |
+| 3 ✓ | ICONO | 21 | Barra de progreso horizontal que ocupa todo el ancho de la imagen: el 99% izquierdo relleno en negro sólido, el 1% final derecho en blanco. Un punto rojo parpadeante marca el extremo derecho con la etiqueta 'AHORA'. Debajo de la barra, el número '99%' centrado en grande. Fondo blanco. |
 | 4 | TEXTO | 23 | `"Cuando algo dolía, simplemente dolía."` — solo texto, pantalla blanca |
-| 5 | ICONO | 25 | Pastilla blanca ovalada en el centro, grande. Una X roja gruesa la tacha de esquina a esquina. Fondo blanco. Sin texto. |
-| 6 | ICONO | 27 | Cruz roja de hospital en el centro, grande. Una X roja gruesa la tacha de esquina a esquina. Fondo blanco. Sin texto. |
+| 5 ✓ | ICONO | 25 | Pastilla blanca ovalada en el centro, grande. Una X roja gruesa la tacha de esquina a esquina. Fondo blanco. Sin texto. |
+| 6 ✓ | ICONO | 27 | Cruz roja de hospital en el centro, grande. Una X roja gruesa la tacha de esquina a esquina. Fondo blanco. Sin texto. |
 | 7 | TEXTO | 29 | `"Sin nada."` — pantalla casi vacía |
 | 8 | ICONO | 31–33 | Tres stickman en fila horizontal, cada uno pasando una antorcha encendida al siguiente. Las llamas van de izquierda a derecha. Cielo nocturno simple: luna grande y dos estrellas. Los tres de pie, misma altura. La antorcha es el elemento protagonista: la supervivencia pasa de mano en mano, generación a generación. |
 | 9 | TEXTO | 35 | `"Durante 300.000 años."` — en grande, centrado |
@@ -37,14 +37,14 @@
 |-----|------|--------|--------------------|
 | 12 | ICONO | 43–45 | Stickman-narrador de pie junto a una pizarra negra. Sobre la pizarra: una línea horizontal con una flecha apuntando al extremo izquierdo marcado con el texto 'INICIO'. El stickman señala ese punto con el dedo índice. |
 | 13 | ESCENA | 47–49 | Stickman solitario y muy pequeño en el encuadre, de pie en una llanura vacía. Sostiene una lanza tosca. El horizonte es absolutamente plano y vacío, sin árboles ni estructura alguna. La escala hace que el personaje parezca diminuto y vulnerable. Cielo claro, fondo minimalista. |
-| 14 | ICONO | 49 | Stickman de pie con tres iconos de dolor simultáneos: una muela con líneas de dolor (arriba izquierda), una pierna vendada (abajo derecha), líneas de calor saliendo del cuerpo (centro). Un reloj a su lado mostrando el tiempo avanzando. Todo ocurre a la vez, sin pausa. Fondo blanco. |
+| 14 ✓ | ICONO | 49 | Stickman de pie con tres iconos de dolor simultáneos: una muela con líneas de dolor (arriba izquierda), una pierna vendada (abajo derecha), líneas de calor saliendo del cuerpo (centro). Un reloj a su lado mostrando el tiempo avanzando. Todo ocurre a la vez, sin pausa. Fondo blanco. |
 | 15 | ICONO | 51 | Stickman con el carrillo derecho hinchado (gran protuberancia circular en la mejilla), sujetándose la cara con la mano. Expresión de dolor intenso. En la esquina superior derecha, una pequeña calavera. Debajo del stickman, un reloj con la etiqueta 'semanas'. |
 | 16 | ICONO | 53 | Stickman con una escayola en la pierna derecha (línea rígida con marcas de vendaje), apoyado en una muleta improvisada. A la derecha, tres iconos en columna, cada uno tachado con X roja: lanza (caza), pie/zapatilla (movimiento), trozo de carne (comida). |
 | 17 | ICONO | 55 | Stickman tumbado boca arriba con líneas de calor saliendo del cuerpo. Un termómetro junto a él con el mercurio al rojo vivo. Cuatro signos de interrogación '?' flotando alrededor del personaje. Fondo blanco. |
-| 18 | ICONO | 57 | Stickman de pie con una expresión de dolor moderado (cejas fruncidas, mano en la mejilla). A su derecha, tres iconos en columna tachados con X roja: lanza (caza), trozo de carne (comida), grupo de siluetas (tribu). El dolor elimina todo lo demás. Fondo blanco. |
+| 18 ✓ | ICONO | 57 | Stickman de pie con una expresión de dolor moderado (cejas fruncidas, mano en la mejilla). A su derecha, tres iconos en columna tachados con X roja: lanza (caza), trozo de carne (comida), grupo de siluetas (tribu). El dolor elimina todo lo demás. Fondo blanco. |
 | 19 | TEXTO | 59 | `"Era una sentencia."` — se agranda al aparecer |
 | 20 | ESCENA | 61 | Stickman-arqueólogo con gorra y lupa, inclinado sobre una mesa donde se ven tres siluetas de huesos con líneas de fractura soldada (lesiones curadas). Expresión de sorpresa extrema: ojos muy abiertos, boca abierta. Burbuja de pensamiento con '¿Cómo?' en grande. |
-| 21 | ICONO | 63 | Tres siluetas de esqueleto simplificado en fila, cada una con una lesión marcada: el primero con líneas de fractura soldada en el brazo, el segundo con marcas en la cadera, el tercero con costillas recompuestas. Sobre cada uno, una marca verde de verificación (✓). Fondo blanco. |
+| 21 ✓ | ICONO | 63 | Tres siluetas de esqueleto simplificado en fila, cada una con una lesión marcada: el primero con líneas de fractura soldada en el brazo, el segundo con marcas en la cadera, el tercero con costillas recompuestas. Sobre cada uno, una marca verde de verificación (✓). Fondo blanco. |
 
 ---
 
@@ -54,21 +54,21 @@
 |-----|------|--------|--------------------|
 | 22 | ICONO | 67 | Mapa simplísimo del Oriente Medio (contornos toscamente dibujados). Un punto rojo grande en el norte de Irak con una flecha y la etiqueta 'SHANIDAR' en mayúsculas. Al lado derecho del mapa, icono de cueva (arco negro simple). Etiqueta '1957' en la parte inferior. Fondo blanco. |
 | 23 | ICONO | 67 | Stickman-arqueólogo agachado, con gorra de explorador y linterna frontal encendida (rayos de luz saliendo). La linterna ilumina un esqueleto simple trazado en el suelo. El stickman tiene expresión de descubrimiento: ojos abiertos, boca en 'o'. |
-| 24 | ICONO | 69–71 | Dos stickman en paralelo. El de la izquierda: encorvado, pelo blanco, bastón, etiqueta '40-50 años'. El de la derecha: moderno, erguido, etiqueta '40-50 años' con una flecha hacia abajo indicando 'joven'. Entre ellos, un símbolo de '≠'. Fondo blanco. |
-| 25 | ICONO | 73–75 | Stickman-arqueólogo con lupa. La lupa amplifica un esqueleto simplificado en el suelo. Un círculo rojo señala el brazo — la zona de la anomalía. La edad (etiqueta '40-50') está en la esquina apagada en gris. El brazo iluminado es el protagonista. Fondo blanco. |
+| 24 ✓ | ICONO | 69–71 | Dos stickman en paralelo. El de la izquierda: encorvado, pelo blanco, bastón, etiqueta '40-50 años'. El de la derecha: moderno, erguido, etiqueta '40-50 años' con una flecha hacia abajo indicando 'joven'. Entre ellos, un símbolo de '≠'. Fondo blanco. |
+| 25 ✓ | ICONO | 73–75 | Stickman-arqueólogo con lupa. La lupa amplifica un esqueleto simplificado en el suelo. Un círculo rojo señala el brazo — la zona de la anomalía. La edad (etiqueta '40-50') está en la esquina apagada en gris. El brazo iluminado es el protagonista. Fondo blanco. |
 | 26 | ICONO | 77–79 | Stickman neandertal (pelo desgreñado, ropa de pieles simple) de frente, cuerpo completo, centrado. El brazo izquierdo es una línea normal que llega a la mano. El brazo derecho termina en un muñón redondeado a la altura del codo, sin antebrazo ni mano: la asimetría es inmediatamente visible. Una flecha fina señala el muñón con la etiqueta 'INFANCIA' en mayúsculas. Expresión neutra. Líneas negras gruesas, fondo blanco. |
 | 27 | ICONO | 81 | Primer plano de un ojo grande (estilo stickman: círculo con pupila simple). Una gran X roja sobre el ojo. Debajo, etiqueta con el texto 'ciego'. El ojo ocupa el 60% del encuadre, fondo blanco. |
 | 28 | ICONO | 83 | Stickman de cuerpo completo, de frente, estilo póster médico. En ambas rodillas, caderas y hombros: círculos rojos grandes con líneas radiales cortas saliendo (icono de inflamación/dolor). El personaje tiene expresión de dolor: cejas fruncidas. Etiqueta 'ARTRITIS' en mayúsculas en la esquina superior. Fondo blanco. |
 | 29 | ESCENA | 85 | Stickman neandertal de pie, postura erguida y orgullosa. El brazo derecho termina en un muñón redondeado a la altura del codo (claramente más corto que el izquierdo). Parche negro simple en el ojo izquierdo. Apoyado en un bastón tosco con la mano izquierda. Expresión de determinación: cejas firmes, cuerpo erguido. Fondo blanco puro. Debajo del personaje, una línea horizontal larga con la etiqueta 'DÉCADAS' centrada. |
-| 30 | ICONO | 87 | El Viejo de Shanidar (muñón en brazo derecho, parche en ojo, bastón) en postura digna y orgullosa. Bajo sus pies, una placa decorativa estilo monumento con el texto 'EL VIEJO DE SHANIDAR' en mayúsculas y 'Solecki, 1957' en letra pequeña debajo. Fondo blanco. |
-| 31 | ICONO | 89–91 | El Viejo de Shanidar en primer plano (muñón, parche, bastón). Sobre su cabeza, una burbuja de pensamiento enorme con un único '?' en su interior, tan grande como el propio personaje. El contraste entre la figura dañada y la pregunta flotante es el protagonista. Fondo blanco. |
+| 30 ✓ | ICONO | 87 | El Viejo de Shanidar (muñón en brazo derecho, parche en ojo, bastón) en postura digna y orgullosa. Bajo sus pies, una placa decorativa estilo monumento con el texto 'EL VIEJO DE SHANIDAR' en mayúsculas y 'Solecki, 1957' en letra pequeña debajo. Fondo blanco. |
+| 31 ✓ | ICONO | 89–91 | El Viejo de Shanidar en primer plano (muñón, parche, bastón). Sobre su cabeza, una burbuja de pensamiento enorme con un único '?' en su interior, tan grande como el propio personaje. El contraste entre la figura dañada y la pregunta flotante es el protagonista. Fondo blanco. |
 | 32 | ESCENA | 93 | El Viejo de Shanidar (muñón en brazo derecho, parche en ojo izquierdo, bastón) en primer plano, de frente o tres cuartos, para que sus daños sean visibles. A su derecha, a gran distancia, dos siluetas amenazantes pequeñas: un felino agachado y una figura hostil con lanza. El espacio vacío entre el personaje y las amenazas ocupa la mayor parte de la imagen. El contraste entre la fragilidad del personaje y el peligro lejano es el protagonista. Fondo blanco. |
-| 33 | ICONO | 95 | Un embudo grande en el centro. Por arriba entran múltiples flechas con iconos distintos (animal, planta, accidente, clima). Por abajo sale una sola flecha gruesa que apunta hacia la derecha. El embudo filtra todo hasta dejar una única salida. Fondo blanco. |
+| 33 ✓ | ICONO | 95 | Un embudo grande en el centro. Por arriba entran múltiples flechas con iconos distintos (animal, planta, accidente, clima). Por abajo sale una sola flecha gruesa que apunta hacia la derecha. El embudo filtra todo hasta dejar una única salida. Fondo blanco. |
 | 34 | TEXTO | 97 | `"Alguien lo cuidó."` — grande, centrado, fondo negro |
 | 35 | TEXTO | 99 | `"Durante años."` |
 | 36 | TEXTO | 101 | `"No una vez."` — tachado visual |
 | 37 | TEXTO | 103 | `"Durante AÑOS."` — más grande todavía |
-| 38 | ESCENA | 105–107 | La imagen dividida en dos mitades. Izquierda: animal (lobo simplificado) dejando a otro animal herido atrás, una flecha indicando 'abandono'. Derecha: stickman inclinado hacia otro stickman en el suelo, con una mano apoyada en su hombro. Las dos mitades separadas por una línea vertical gruesa. Fondo blanco. |
+| 38 ✓ | ESCENA | 105–107 | La imagen dividida en dos mitades. Izquierda: animal (lobo simplificado) dejando a otro animal herido atrás, una flecha indicando 'abandono'. Derecha: stickman inclinado hacia otro stickman en el suelo, con una mano apoyada en su hombro. Las dos mitades separadas por una línea vertical gruesa. Fondo blanco. |
 | 39 | ESCENA | 109 | Stickman de pie exactamente en la bifurcación de dos caminos. El camino de la izquierda tiene un cartel 'INSTINTO' y una huella animal dibujada. El camino de la derecha tiene un cartel 'DECISIÓN' y un corazón simple. El stickman da un paso claro hacia la derecha, hacia 'DECISIÓN'. Fondo minimalista. |
 
 ---
@@ -88,10 +88,10 @@
 | 48 | ICONO | 131–133 | Una hoja/planta tosca a la izquierda. Una flecha gruesa y horizontal apunta hacia la derecha, hacia un icono de pastilla moderna. Encima de la flecha, símbolo de farmacia (cruz verde dibujada torpemente). La flecha conecta el pasado (planta) con el presente (pastilla). Un único mensaje visual: esto que usaban ellos es lo que usamos hoy. Composición limpia, fondo blanco. |
 | 49 | ESCENA | 135–139 | Stickman de pie, inclinándose para colocar flores simples (círculos con pétalos) alrededor del contorno de un cuerpo tumbado (trazado simple en el suelo). El stickman tiene expresión solemne. A la derecha de la imagen, dos etiquetas con flechas: 'DECORAR' tachada con X roja / 'ACOMPAÑAR' con marca verde. |
 | 50 | ESCENA | 141–145 | Dos stickman-científicos (con gafas y bata blanca dibujada torpemente) frente a frente, con expresiones acaloradas de debate. El de la izquierda señala una flecha de viento que empuja pequeñas flores. Del stickman de la derecha sale una burbuja de diálogo con el texto 'casualidad'. |
-| 51 | ICONO | 145 | Stickman-científico con gafas y bata, brazos cruzados, expresión escéptica (ceja arqueada). A su lado, una flecha de viento empujando flores hacia el esqueleto dibujado en el suelo. El científico señala la flecha con un gesto de 'ya está explicado'. Fondo blanco. |
+| 51 ✓ | ICONO | 145 | Stickman-científico con gafas y bata, brazos cruzados, expresión escéptica (ceja arqueada). A su lado, una flecha de viento empujando flores hacia el esqueleto dibujado en el suelo. El científico señala la flecha con un gesto de 'ya está explicado'. Fondo blanco. |
 | 52 | ICONO | 147 | Portátil o pantalla de ordenador abierta. En la pantalla: encabezado con 'Journal of Archaeological Science' y '2023'. Debajo, líneas abstractas que representan texto científico y un pequeño gráfico. Un stickman a un lado mira la pantalla con expresión concentrada. |
 | 53 | ICONO | 149–151 | Vista de planta (desde arriba) de un contorno simple de esqueleto humano. Sobre y alrededor del esqueleto, un mapa de densidad de puntos: muy densos (rojos/naranjas) en el torso y la cabeza, dispersos (amarillos) en los bordes, casi ninguno fuera del cuerpo. Visual tipo mapa de calor simplificado. |
-| 54 | ICONO | 153 | Vista de planta del esqueleto con el mapa de densidad de polen (igual que img 53). Una flecha curva grande entra desde fuera del encuadre apuntando al centro del cuerpo, indicando que algo fue depositado desde el exterior. Fondo blanco. |
+| 54 ✓ | ICONO | 153 | Vista de planta del esqueleto con el mapa de densidad de polen (igual que img 53). Una flecha curva grande entra desde fuera del encuadre apuntando al centro del cuerpo, indicando que algo fue depositado desde el exterior. Fondo blanco. |
 | 55 | TEXTO | 155 | `"Alguien lo puso."` — fondo negro, impacto |
 
 ---
@@ -100,8 +100,8 @@
 
 | Img | Tipo | Líneas | Descripción visual |
 |-----|------|--------|--------------------|
-| 56 | ICONO | 161 | Stickman primitivo de pie frente a dos plantas distintas. Sobre su cabeza, una burbuja de pensamiento partida en dos: la mitad izquierda muestra un cerebro encendido (sabe), la mitad derecha muestra signos de interrogación (no sabe). El stickman mira las plantas con expresión pensativa. Fondo blanco. |
-| 57 | ICONO | 163 | Stickman primitivo con los ojos cerrados, brazo extendido, cogiendo una planta aleatoria de un grupo de cinco plantas distintas. Expresión de indiferencia total. Las plantas están mezcladas sin orden. Una flecha indica la elección con un '?' encima. Fondo blanco. |
+| 56 ✓ | ICONO | 161 | Stickman primitivo de pie frente a dos plantas distintas. Sobre su cabeza, una burbuja de pensamiento partida en dos: la mitad izquierda muestra un cerebro encendido (sabe), la mitad derecha muestra signos de interrogación (no sabe). El stickman mira las plantas con expresión pensativa. Fondo blanco. |
+| 57 ✓ | ICONO | 163 | Stickman primitivo con los ojos cerrados, brazo extendido, cogiendo una planta aleatoria de un grupo de cinco plantas distintas. Expresión de indiferencia total. Las plantas están mezcladas sin orden. Una flecha indica la elección con un '?' encima. Fondo blanco. |
 | 58 | ICONO | 165 | Stickman vestido con toga griega (drapeado simple, corona de laurel en la cabeza) con postura soberbia. Sobre el personaje completo, una gran X tachada en rojo. En la esquina, etiqueta pequeña 'primeros' también tachada. Fondo blanco. |
 | 59 | ESCENA | 167–169 | Mapa planisferio muy simplificado (solo los contornos de los continentes en trazo grueso, sin detalle). Tres puntos rojos marcados: uno en Europa central, uno en África oriental, uno en Asia oriental. Líneas punteadas conectando los tres puntos entre sí, formando un triángulo. El mapa es el protagonista absoluto de la imagen. |
 | 60 | TEXTO | 171–173 | `"No plantas cualquiera."` pausa → `"Las mismas plantas."` |
@@ -119,22 +119,22 @@
 
 | Img | Tipo | Líneas | Descripción visual |
 |-----|------|--------|--------------------|
-| 68 | ICONO | 199 | Cuatro iconos en fila (hueso, flor de polen, planta, diente) con sus tamaños en escala ascendente de izquierda a derecha. El último icono (diente) es claramente el más grande, con una flecha debajo apuntando hacia él y una estrella o destello en la esquina. Fondo blanco. |
+| 68 ✓ | ICONO | 199 | Cuatro iconos en fila (hueso, flor de polen, planta, diente) con sus tamaños en escala ascendente de izquierda a derecha. El último icono (diente) es claramente el más grande, con una flecha debajo apuntando hacia él y una estrella o destello en la esquina. Fondo blanco. |
 | 69 | ICONO | 201 | Mapa simplificado de Rusia (contorno tosco). En el sur de Siberia, un punto rojo con flecha y el texto 'CHAGYRSKAYA'. Al lado derecho del mapa, icono de cueva (arco negro). Etiqueta 'mayo 2026' en la parte inferior. |
 | 70 | TEXTO | 203 | `"Neandertal."` |
 | 71 | TEXTO | 205 | `"59.000 años de antigüedad."` |
-| 72 | ICONO | 207 | Molar grande dibujado en el centro (igual que img 74 pero sin marcas aún). Sobre él, una lupa con expresión de descubrimiento del stickman-arqueólogo (ojos muy abiertos, boca en 'o'). Un signo de exclamación '!' enorme en la esquina. Fondo blanco. |
+| 72 ✓ | ICONO | 207 | Molar grande dibujado en el centro (igual que img 74 pero sin marcas aún). Sobre él, una lupa con expresión de descubrimiento del stickman-arqueólogo (ojos muy abiertos, boca en 'o'). Un signo de exclamación '!' enorme en la esquina. Fondo blanco. |
 | 73 | TEXTO | 209 | `"Marcas."` — pantalla negra, solo esa palabra |
 | 74 | ICONO | 211 | Primer plano de un molar grande dibujado con líneas gruesas: base con raíces, corona con cúspides. Sobre el esmalte de la corona, cuatro o cinco líneas paralelas y precisas marcadas en rojo brillante. Una lupa en la esquina amplificando esas marcas. El diente ocupa el 70% del encuadre. |
-| 75 | ICONO | 213 | Primer plano del molar con las marcas rojas (igual que img 74). Una lupa amplifica una sola marca, mostrando su tamaño diminuto. Líneas de referencia de escala a los lados, como en un diagrama técnico. Fondo blanco. |
-| 76 | ICONO | 215 | Las mismas marcas del molar vistas con la lupa. Sobre ellas, un transportador de ángulos (semicírculo con grados) midiendo la uniformidad de las líneas. Todas perfectamente paralelas y del mismo ángulo. Fondo blanco. |
-| 77 | ICONO | 217–219 | El molar con dos etiquetas tachadas en rojo. Primera etiqueta: icono de mandíbula masticando + 'MASTICACIÓN' tachado. Segunda etiqueta: icono de reloj/tiempo + 'DESGASTE' tachado. Las dos X rojas son prominentes. Fondo blanco. |
+| 75 ✓ | ICONO | 213 | Primer plano del molar con las marcas rojas (igual que img 74). Una lupa amplifica una sola marca, mostrando su tamaño diminuto. Líneas de referencia de escala a los lados, como en un diagrama técnico. Fondo blanco. |
+| 76 ✓ | ICONO | 215 | Las mismas marcas del molar vistas con la lupa. Sobre ellas, un transportador de ángulos (semicírculo con grados) midiendo la uniformidad de las líneas. Todas perfectamente paralelas y del mismo ángulo. Fondo blanco. |
+| 77 ✓ | ICONO | 217–219 | El molar con dos etiquetas tachadas en rojo. Primera etiqueta: icono de mandíbula masticando + 'MASTICACIÓN' tachado. Segunda etiqueta: icono de reloj/tiempo + 'DESGASTE' tachado. Las dos X rojas son prominentes. Fondo blanco. |
 | 78 | TEXTO | 221 | `"Son de una herramienta."` — reveal |
 | 79 | ICONO | 223–225 | El mismo molar dibujado en grueso. Sobre él, una línea de trabajo con un ángulo marcado (tipo diagrama de ingeniería, con un arco indicando los grados). Una flecha apunta al ángulo con la etiqueta 'ángulo'. En la esquina inferior, un pequeño stickman con el brazo contorsionado intentando replicar ese ángulo en su propio diente — imposible. |
 | 80 | ESCENA | 227–229 | Stickman de cuerpo completo intentando contorsionar el brazo para alcanzar su propio diente molar desde fuera. El brazo se tuerce en un ángulo absurdo pero claramente no llega. Expresión de esfuerzo y fracaso: frente sudada, cejas fruncidas. Al lado del intento, la palabra 'IMPOSIBLE' en grande. Fondo blanco. |
 | 81 | ICONO | 231–233 | Stickman paciente sentado con la boca muy abierta (expresión de vulnerabilidad). Frente a él, stickman-dentista de pie sosteniendo una herramienta de punta fina entre el pulgar y el índice. El dentista tiene expresión de concentración. Las dos figuras están próximas, cara a cara. |
 | 82 | TEXTO | 235 | `"Y le intervino el diente."` |
-| 83 | ICONO | 237 | Mapa simplificado de Rusia con el punto rojo de Chagyrskaya (igual que img 69). Sobre el mapa, el icono del molar con las marcas de herramienta superpuesto encima del punto rojo, como si el hallazgo estuviera anclado al lugar. Fondo blanco. |
+| 83 ✓ | ICONO | 237 | Mapa simplificado de Rusia con el punto rojo de Chagyrskaya (igual que img 69). Sobre el mapa, el icono del molar con las marcas de herramienta superpuesto encima del punto rojo, como si el hallazgo estuviera anclado al lugar. Fondo blanco. |
 | 84 | ESCENA | 239–241 | Stickman con un delantal blanco dibujado torpemente (rectángulo blanco sobre el cuerpo). Sostiene una herramienta de punta fina con pose orgullosa. Al lado, un cartel enorme (más grande que el personaje) con 'DENTISTA' en la primera línea y '59.000 a.C.' en la segunda. El stickman posa como en una foto oficial, expresión seria pero ridícula. |
 
 ---
