@@ -3,6 +3,42 @@
 **Herramienta:** Google Labs Flow con modelo Nano Banana 2
 **Referencia de estilo:** Imagen 1 del guion_01 (stickman entre farmacia y cajón de ibuprofeno)
 **Estado:** Prompt canónico. No modificar sin consenso.
+**Última actualización:** 27 de mayo de 2026 — nuevas reglas de color y fondo.
+
+---
+
+## REGLAS GLOBALES DE COLOR Y FONDO ⚠️ OBLIGATORIAS EN TODOS LOS VIDEOS
+
+Estas reglas se aplican a TODAS las imágenes del canal sin excepción. Incluirlas siempre en cualquier prompt.
+
+### Regla de color
+- **Máximo 5 colores por escena** (contando el negro de los contornos y el color del fondo)
+- Colores **planos y sólidos** — sin gradientes, sin sombras, sin texturas
+- Estilo **"dibujo coloreado vago"**: el color puede salirse ligeramente de los contornos, como coloreado a mano con rotuladores con prisa — no perfectamente rellenado
+
+### Regla de fondo
+El fondo de cada imagen debe reflejar el contexto del momento del guion. Nunca fondo blanco puro excepto en tarjetas TEXTO puras.
+
+| Contexto del guion | Fondo | Suelo/Detalle |
+|---|---|---|
+| Exterior de día | Azul cielo suave | Verde suave (hierba) |
+| Exterior de noche | Azul oscuro / índigo | Marrón oscuro |
+| Interior (casa, habitación) | Amarillo suave / beige | Suelo beige o marrón claro |
+| Cueva / prehistoria | Marrón tierra / naranja oscuro | Tierra, piedra gris |
+| Laboratorio / ciencia | Gris muy claro / blanco roto | Detalles azul suave |
+| Peligro / drama / tensión | Rojo muy suave o naranja suave | — |
+| Agua / océano / río | Azul medio | Azul más oscuro abajo |
+| Médico / farmacia | Blanco roto | Detalles verde claro |
+
+### Texto de referencia para incluir en todos los prompts de color
+```
+COLOR AND BACKGROUND RULES (mandatory):
+- Maximum 5 flat solid colors total in the scene (including black outlines and background)
+- No gradients, no shadows, no textures — flat solid fills only
+- Coloring style: slightly rough, like hand-colored with markers in a hurry (color may slightly overflow contour lines)
+- Background: [DESCRIBIR EL CONTEXTO DEL GUION — ej: "soft blue sky with light green ground" / "dark indigo night sky" / "warm beige interior wall"]
+- Simple colored background based on the script context, not white
+```
 
 ---
 
@@ -10,10 +46,11 @@
 
 1. Abrir Google Labs Flow con modelo Nano Banana 2
 2. Subir la imagen 1 del guion_01 como referencia de estilo
-3. Identificar el TIPO de imagen en `imagenes_guion_01.md` (TEXTO / ICONO / ESCENA)
+3. Identificar el TIPO de imagen (TEXTO / ICONO / ESCENA)
 4. Copiar el prompt correspondiente a ese tipo (ver abajo)
-5. Sustituir `[DESCRIPCIÓN]` por la columna "Descripción visual" de la fila correspondiente
-6. Generar
+5. Sustituir `[DESCRIPCIÓN]` por la descripción visual de la imagen
+6. Sustituir `[CONTEXTO DE FONDO]` con el contexto del guion para esa imagen
+7. Generar
 
 ---
 
@@ -29,17 +66,23 @@ Using the attached reference image as the exact visual style to replicate, gener
 IMAGE TYPE: clean text card.
 
 COMPOSITION RULES:
-- Pure white background
-- Large bold text, centered
+- Simple flat-colored background (very light, low saturation) — NOT pure white
+- Large bold text, centered, dark color for contrast
 - Simple sans-serif font
 - Text occupies 40-60% of the image width
 - If there is a small stickman or icon, it is tiny and placed in a corner only
 - No decoration, no borders, no frames
-- Lots of empty white space around the text
+- Background color: [CONTEXTO DE FONDO — ej: "very light warm beige" / "very pale blue"]
+
+COLOR AND BACKGROUND RULES (mandatory):
+- Maximum 5 flat solid colors total in the scene (including black outlines and background)
+- No gradients, no shadows, no textures — flat solid fills only
+- Coloring style: slightly rough, like hand-colored with markers in a hurry (color may slightly overflow contour lines)
+- Background: simple flat light color that matches the script context — NOT white
 
 VISUAL STYLE (identical to reference):
 - Thick black lines for any drawn element
-- Flat soft colors if any color is used
+- Flat solid colors only
 - Simple educational animation look
 - Intentionally simple and slightly ridiculous
 
@@ -83,16 +126,23 @@ TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 REGLAS DE COMPOSICIÓN:
 - Un solo personaje o un solo objeto como foco absoluto
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
+- Fondo coloreado simple acorde al contexto del guion (ver reglas de color abajo)
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
 - Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
 
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido — el color puede salirse un poco de los contornos
+- Fondo: [CONTEXTO DE FONDO — ej: "cielo azul suave con suelo verde claro" / "interior cálido beige" / "noche azul oscuro"]
+- El fondo refleja el entorno del momento del guion, nunca blanco puro
+
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
 - Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Colores planos y sólidos, paleta máximo 5 colores
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
@@ -103,12 +153,13 @@ TEXTO EN IMAGEN:
 
 NO incluir:
 - Más de un personaje principal
-- Fondos detallados
+- Fondos detallados o fotorrealistas
 - Múltiples objetos
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, colored contextual background.
 ```
 
 ---
@@ -128,15 +179,21 @@ REGLAS DE COMPOSICIÓN:
 - Puede haber 2-3 personajes o elementos si la escena lo requiere
 - El entorno da contexto pero sin sobrecargarse
 - Jerarquía visual clara: personaje principal en primer plano o centro
-- Mucho espacio vacío, fondos minimalistas
 - Los elementos secundarios son simples y reducidos al mínimo
 - Si hay texto en el entorno (cartel, letrero), máximo 1-2 palabras en español
 
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido — el color puede salirse un poco de los contornos
+- Fondo: [CONTEXTO DE FONDO — ej: "cielo azul suave con suelo verde claro" / "cueva marrón tierra con detalles naranja" / "interior beige cálido"]
+- El fondo refleja el entorno del momento del guion, dibujado de forma simple y plana
+
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas en todos los elementos
 - Expresiones faciales que comuniquen la emoción de la escena
-- Colores planos y suaves, paleta reducida
+- Colores planos y sólidos, paleta máximo 5 colores
 - Aspecto de animación educativa simple, hecha a mano
 - Intencionalmente simple y ligeramente ridículo
 - Todos los personajes deben tener el mismo diseño de stickman que la referencia
@@ -152,9 +209,10 @@ NO incluir:
 - Infografías o esquemas
 - Más de 3 elementos principales
 - Texto en inglés
+- Gradientes, sombras o texturas
 - Estética Pixar, anime o meme
 
-Single clean narrative scene, minimal composition, no comic panel layout.
+Single clean narrative scene, colored contextual background, no comic panel layout.
 ```
 
 ---

@@ -1,6 +1,6 @@
 # Configuración de Voz — ElevenLabs
 ## Canal: [Nombre del canal]
-**Última actualización:** 20 de mayo de 2026
+**Última actualización:** 27 de mayo de 2026
 
 ---
 
@@ -42,25 +42,31 @@ Probar estas voces con el mismo fragmento de guion (ver sección "Texto de prueb
 
 ### Panel de ajustes en ElevenLabs
 
-| Parámetro | Valor recomendado | Por qué |
-|---|---|---|
-| **Stability** | 0.35 – 0.45 | Más variación natural entre frases. Evita el efecto "robot monótono". |
-| **Similarity Boost** | 0.80 – 0.85 | Alta fidelidad a la voz base sin perder expresividad. |
-| **Style** | 0.20 – 0.30 | Algo de estilo sin exagerar. Si se sube mucho suena sobreactuado. |
-| **Speaker Boost** | ON | Mejora la claridad en frases cortas y pausas. |
+> ⚠️ **ACTUALIZACIÓN 27-05-2026:** Ajustes revisados para corregir voz monótona y lenta. Problema reportado por viewers: "se duermen" y ritmo muy lento.
 
-> ⚠️ **Importante:** Estos valores son el punto de partida. Tras escuchar los primeros 3 videos, afinar si algo suena forzado. Anotar los ajustes finales en la tabla de "Versión aprobada" abajo.
+| Parámetro | Valor anterior | Valor nuevo | Por qué el cambio |
+|---|---|---|---|
+| **Speed** | (no configurado) | **1.10 – 1.15** | +10-15% de velocidad. Es el cambio más impactante para el ritmo percibido. |
+| **Stability** | 0.35 – 0.45 | **0.25 – 0.35** | Más baja = más variación prosódica natural entre frases. |
+| **Similarity Boost** | 0.80 – 0.85 | **0.75 – 0.80** | Ligeramente más bajo para dar más margen de expresividad. |
+| **Style** | 0.20 – 0.30 | **0.45 – 0.55** | Este era el problema principal. Subir el Style añade energía y dinamismo. |
+| **Speaker Boost** | ON | **ON** | Sin cambio. |
+
+**Modelo recomendado:** Cambiar a **Eleven Multilingual v2.5** o **Eleven Flash v2.5** — tienen prosody más natural y responden mejor al Speed.
+
+> ⚠️ **Importante:** Probar primero con Speed 1.10. Si sigue sonando lento, subir a 1.15. No superar 1.20 — se pierde la articulación en consonantes del castellano.
 
 ### Versión aprobada (rellenar tras validar)
 
 | Parámetro | Valor final aprobado |
 |---|---|
 | Voz | — |
+| Speed | — |
 | Stability | — |
 | Similarity Boost | — |
 | Style | — |
 | Speaker Boost | — |
-| Modelo | Eleven Multilingual v2 / Eleven Turbo v2 |
+| Modelo | Eleven Multilingual v2.5 / Eleven Flash v2.5 |
 
 ---
 
@@ -70,13 +76,15 @@ ElevenLabs lee la puntuación tal como está escrita. Estas reglas garantizan qu
 
 ### Pausas
 
+> ⚠️ **REGLA NUEVA:** Reducir drásticamente el uso de `...` y párrafos en blanco separados. Cada pausa larga mata el ritmo. Reservarlas solo para 1-2 momentos de máximo impacto por video.
+
 | Efecto deseado | Cómo escribirlo en el guion |
 |---|---|
-| Pausa corta (énfasis) | Coma `,` |
-| Pausa media (cambio de idea) | Punto `.` |
-| Pausa larga (impacto dramático) | Punto + línea en blanco entre párrafos |
-| Pausa muy larga (momento de suspense) | `...` o punto y aparte con línea extra |
-| Pausa deliberada tipo Zenn | Frase corta sola en su propio párrafo. |
+| Pausa cortísima (énfasis) | Coma `,` |
+| Pausa normal (cambio de idea) | Punto `.` |
+| Pausa dramática (usar con moderación) | `...` — máximo 3-4 veces por video |
+| Pausa de impacto máximo (1 vez por video) | Frase sola en su párrafo. Una sola. |
+| ~~Punto + línea en blanco~~ | **Eliminado del uso habitual** — ralentiza demasiado |
 
 ### Énfasis y tono
 
@@ -110,9 +118,9 @@ Cada video tiene tres fases emocionales. La voz debe reflejarlas:
 
 | Sección | Minuto aprox. | Tono de voz | Ritmo |
 |---|---|---|---|
-| **Hook** (gancho) | 0:00 – 0:45 | Íntimo, casi susurrado. Como revelando un secreto. | Lento, con pausas dramáticas |
-| **Desarrollo** (ciencia) | 0:45 – 6:00 | Curioso, algo más energético. Cuenta hallazgos. | Medio, variado |
-| **Cierre** (reflexión) | 6:00 – fin | Calmado, filosófico, ligeramente melancólico | Lento, con pausas al final |
+| **Hook** (gancho) | 0:00 – 0:45 | Íntimo pero con energía. Como revelando algo urgente. | **Rápido-medio**, solo 1-2 pausas dramáticas |
+| **Desarrollo** (ciencia) | 0:45 – 6:00 | Curioso, energético, casi emocionado. | **Rápido**, sin pausas innecesarias |
+| **Cierre** (reflexión) | 6:00 – fin | Calmado, filosófico. El único momento que puede ser lento. | Medio-lento, con 1-2 pausas al final |
 
 ---
 
@@ -178,4 +186,4 @@ La respuesta cambia todo lo que crees saber sobre el sueño.
 | Fecha | Cambio | Motivo |
 |---|---|---|
 | 20 mayo 2026 | Creación del documento | Setup inicial del canal |
-| — | — | — |
+| 27 mayo 2026 | Speed +10-15%, Style 0.20→0.45, Stability 0.35→0.25, reglas de puntuación revisadas, tabla de ritmo por sección actualizada | Feedback de viewers: voz monótona y ritmo muy lento |

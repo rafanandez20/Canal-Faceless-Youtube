@@ -52,11 +52,11 @@ Las **miniaturas son diferentes**: tienen ambiente, colores y más detalle para 
 
 Todas las miniaturas del canal siguen esta estructura:
 
-1. **Ambiente prehistórico** (cueva, fuego, cielo nocturno) — da contexto instantáneo
-2. **Stickman neandertal** (izquierda o centro) — el personaje del canal
+1. **Ambiente de época** (cueva, fuego, cielo nocturno, o lo equivalente al tema) — fondo detallado con contexto, nunca plano
+2. **Stickman neandertal** (izquierda o centro) — el personaje del canal, diseño más pulido que en el vídeo
 3. **Objeto del tema** (planta, hueso, herramienta...) — lo que sostiene o muestra
 4. **Contraste moderno** (pastilla, teléfono, símbolo actual) — el giro del vídeo
-5. **Texto pregunta/afirmación** (arriba, amarillo) — el hook de click
+5. **Texto en MAYÚSCULAS** (arriba, blanco o amarillo, letras redondeadas) — hook tipo pregunta o afirmación clickbait ligera
 
 ---
 
@@ -110,15 +110,23 @@ STICKMAN STYLE:
 - Animal skin outfit: irregular brown shape with spot markings
 - Thin stick arms and legs, small round black hands
 - Flat 2D cartoon look, hand-drawn aesthetic
-- More detailed than the video images but still intentionally simple and slightly ridiculous
+- More polished and detailed than the video images — cleaner lines, more expressive, still intentionally simple and slightly ridiculous
+
+BACKGROUND STYLE:
+- The background must have context and visual richness — NOT a flat white or plain background
+- Always represents the era or topic of the video (prehistoric cave, ancient landscape, etc.)
+- Add environmental details: rock textures, fire glow, starry sky, distant mountains, etc.
+- The background reinforces the theme at a glance
 
 TEXT RULES:
 The text to display is written below between triple asterisks.
 You MUST reproduce it EXACTLY as written. Do NOT translate it.
 It is in Spanish. Reproduce it letter by letter.
-Large, bold, bright yellow (#ffee00), thick black outline, placed at the VERY TOP of the image.
+ALL CAPS. Large, rounded and bold letters — friendly, bubbly style. Color: bright yellow (#ffee00) OR white, with thick black outline.
+Placed at the VERY TOP of the image.
+The text should feel like a light clickbait hook: a question or a bold statement that creates curiosity.
 
-***[TEXTO DE LA MINIATURA EN ESPAÑOL]***
+***[TEXTO DE LA MINIATURA EN ESPAÑOL — EN MAYÚSCULAS]***
 
 DO NOT include:
 - White or black flat backgrounds
@@ -135,9 +143,11 @@ Cave YouTube thumbnail: warm brown cave, campfire center-bottom, neandertal stic
 ## Checklist antes de generar
 
 - [ ] ¿Tengo la imagen de referencia (miniatura vídeo 1) para subir a Flow?
-- [ ] ¿El texto entre `***` está en español y sin comillas?
+- [ ] ¿El texto entre `***` está en español, EN MAYÚSCULAS y sin comillas?
+- [ ] ¿El texto es un hook tipo pregunta o afirmación clickbait ligera?
 - [ ] ¿La descripción de escena incluye posición del stickman, objeto y contraste moderno?
-- [ ] ¿El texto del hook es una pregunta o afirmación corta (máx 5 palabras)?
+- [ ] ¿El fondo tiene detalles contextuales de la época (no plano)?
+- [ ] ¿El stickman es más detallado y pulido que los del vídeo?
 
 ---
 
