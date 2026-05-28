@@ -10,7 +10,7 @@ No olvides adjuntar la imagen de referencia de estilo antes de generar.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman congelado dentro de un bloque de hielo translúcido, de pie, postura natural. Marcas y rayas simples visibles en su piel a través del hielo. Expresión serena. Fondo blanco.
+Stickman congelado dentro de un bloque de hielo translúcido, de pie, postura natural. Marcas y rayas simples visibles en su piel a través del hielo. Expresión serena.
 
 TIPO DE IMAGEN: escena narrativa, momento ancla del video.
 
@@ -18,25 +18,30 @@ REGLAS DE COMPOSICIÓN:
 - Puede haber 2-3 personajes o elementos si la escena lo requiere
 - El entorno da contexto pero sin sobrecargarse
 - Jerarquía visual clara: personaje principal en primer plano o centro
-- Mucho espacio vacío, fondos minimalistas
 - Los elementos secundarios son simples y reducidos al mínimo
-- Si hay texto en el entorno (cartel, letrero), máximo 1-2 palabras en español
+- Sin texto, sin carteles, sin etiquetas en esta imagen
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin reflejos, sin burbujas, sin grietas — rellenos planos únicamente
+- El hielo es un bloque plano de un solo color azul muy claro, contorno negro grueso, NADA de detalles internos
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido — el color puede salirse un poco de los contornos
+- Fondo: azul hielo muy pálido plano arriba, suelo gris piedra plano abajo (cueva alpina fría)
+- El fondo refleja el contexto del guion (cueva helada de los Alpes), nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas en todos los elementos
 - Expresiones faciales que comuniquen la emoción de la escena
-- Colores planos y suaves, paleta reducida
+- Colores planos y sólidos, paleta máximo 5 colores
 - Aspecto de animación educativa simple, hecha a mano
 - Intencionalmente simple y ligeramente ridículo
 - Todos los personajes deben tener el mismo diseño de stickman que la referencia
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel, letrero o etiqueta que forma parte del entorno
-- Máximo 2 palabras, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Gradientes, sombras, reflejos, burbujas o grietas dentro del hielo
+- Carteles, etiquetas o texto de ningún tipo
 - Fondos fotorrealistas o detallados
 - Composiciones tipo cómic con viñetas
 - Infografías o esquemas
@@ -44,7 +49,7 @@ NO incluir:
 - Texto en inglés
 - Estética Pixar, anime o meme
 
-Single clean narrative scene, minimal composition, no comic panel layout.
+Single clean narrative scene, flat colored contextual background, no comic panel layout.
 ```
 
 ---
@@ -54,39 +59,42 @@ Single clean narrative scene, minimal composition, no comic panel layout.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman congelado en bloque de hielo con una aguja o herramienta primitiva flotando junto a él. La herramienta señala que sigue medicado. Fondo blanco.
+Stickman congelado en bloque de hielo, de pie, con una aguja o herramienta primitiva pequeña flotando junto a él. La herramienta señala que sigue medicado. El bloque de hielo es plano, un solo color azul muy claro, sin grietas ni burbujas internas.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto, herramienta como complemento
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin reflejos — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido — el color puede salirse un poco de los contornos
+- Fondo: azul hielo muy pálido plano arriba, suelo gris piedra plano abajo (cueva alpina fría)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión serena
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Gradientes, sombras, reflejos, burbujas o grietas en el hielo
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
+- Fondos detallados o fotorrealistas
 - Múltiples objetos
 - Composiciones tipo cómic o infografía
 - Texto en inglés
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -96,39 +104,41 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman científico con gafas y bata inclinado sobre un bloque de hielo con una lupa, examinando las marcas visibles en la piel del congelado. Expresión de asombro creciente. Fondo blanco.
+Stickman científico con gafas y bata blanca inclinado sobre un bloque de hielo plano (azul muy claro) con una lupa, examinando las marcas visibles en la piel del congelado. Expresión de asombro creciente. El bloque de hielo plano sin detalles internos.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto, hielo como complemento
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin reflejos — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido — el color puede salirse un poco de los contornos
+- Fondo: gris muy claro plano con detalles azul suave (laboratorio/estudio científico)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión de asombro
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Gradientes, sombras, reflejos, burbujas o grietas en el hielo
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -138,20 +148,27 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Using the attached reference image as the exact visual style to replicate, generate this image:
 
-Fondo blanco puro. Texto en negrita grande, centrado. Sin otros elementos.
+Texto en negrita grande, centrado. Sin otros elementos.
 
 IMAGE TYPE: clean text card.
 
 COMPOSITION RULES:
-- Pure white background
-- Large bold text, centered
+- Simple flat-colored background (very light, low saturation) — NOT pure white
+- Large bold text, centered, dark color for contrast
 - Simple sans-serif font
 - Text occupies 40-60% of the image width
 - No decoration, no borders, no frames
+- Background color: very light warm red / pale pink (tensión, impacto)
+
+COLOR AND BACKGROUND RULES (mandatory):
+- Maximum 5 flat solid colors total in the scene (including black outlines and background)
+- No gradients, no shadows, no textures — flat solid fills only
+- Coloring style: slightly rough, like hand-colored with markers in a hurry
+- Background: simple flat very light red/pink tone — NOT white
 
 VISUAL STYLE (identical to reference):
 - Thick black lines for any drawn element
-- Flat soft colors if any color is used
+- Flat solid colors only
 - Simple educational animation look
 - Intentionally simple and slightly ridiculous
 
@@ -169,7 +186,13 @@ The text between the triple asterisks above is the ONLY text allowed in the imag
 Do not add any other words, subtitles, captions, or labels.
 Do NOT include quotation marks of any kind (" " ' ' « ») around the text or anywhere in the image.
 
-Single clean text card, minimal composition.
+DO NOT include:
+- Pure white background
+- Multiple characters
+- Elaborate backgrounds
+- English text of any kind
+
+Single clean text card, minimal composition, flat colored background.
 ```
 
 ---
@@ -179,39 +202,41 @@ Single clean text card, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman científico sosteniendo dos documentos y comparándolos. Expresión de incredulidad total: esto no puede ser. Fondo blanco.
+Stickman científico con bata blanca y gafas sosteniendo dos documentos (uno en cada mano) y comparándolos. Expresión de incredulidad total: esto no puede ser.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: gris muy claro plano con detalles azul suave (laboratorio/estudio científico)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión de incredulidad
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -221,39 +246,41 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman señalando con el brazo extendido hacia la izquierda, hacia atrás en el tiempo. Una flecha curva apunta al pasado. Fondo blanco.
+Stickman señalando con el brazo extendido hacia la izquierda. Una flecha curva grande apunta hacia el pasado (lado izquierdo). Expresión de "remontémonos atrás".
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto, flecha como complemento
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: beige cálido muy suave plano (contexto temporal/narrativo abstracto)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión narrativa/explicativa
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -263,20 +290,27 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Using the attached reference image as the exact visual style to replicate, generate this image:
 
-Fondo blanco puro. Texto en negrita grande, centrado. Sin otros elementos.
+Texto en negrita grande, centrado. Sin otros elementos.
 
 IMAGE TYPE: clean text card.
 
 COMPOSITION RULES:
-- Pure white background
-- Large bold text, centered
+- Simple flat-colored background (very light, low saturation) — NOT pure white
+- Large bold text, centered, dark color for contrast
 - Simple sans-serif font
 - Text occupies 40-60% of the image width
 - No decoration, no borders, no frames
+- Background color: very light warm beige (tono nostálgico/histórico)
+
+COLOR AND BACKGROUND RULES (mandatory):
+- Maximum 5 flat solid colors total in the scene (including black outlines and background)
+- No gradients, no shadows, no textures — flat solid fills only
+- Coloring style: slightly rough, like hand-colored with markers in a hurry
+- Background: simple flat very light warm beige — NOT white
 
 VISUAL STYLE (identical to reference):
 - Thick black lines for any drawn element
-- Flat soft colors if any color is used
+- Flat solid colors only
 - Simple educational animation look
 - Intentionally simple and slightly ridiculous
 
@@ -294,7 +328,13 @@ The text between the triple asterisks above is the ONLY text allowed in the imag
 Do not add any other words, subtitles, captions, or labels.
 Do NOT include quotation marks of any kind (" " ' ' « ») around the text or anywhere in the image.
 
-Single clean text card, minimal composition.
+DO NOT include:
+- Pure white background
+- Multiple characters
+- Elaborate backgrounds
+- English text of any kind
+
+Single clean text card, minimal composition, flat colored background.
 ```
 
 ---
@@ -304,41 +344,45 @@ Single clean text card, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Dos stickman con mochilas de montañero caminando por terreno nevado. Montañas simples al fondo. Cielo azul claro. Paso tranquilo y despreocupado.
+Dos stickman con mochilas pequeñas de montañero caminando por terreno nevado en los Alpes. Dos o tres picos triangulares simples al fondo. Paso tranquilo y despreocupado. Expresión neutra.
 
 TIPO DE IMAGEN: escena narrativa, momento ancla del video.
 
 REGLAS DE COMPOSICIÓN:
-- Puede haber 2-3 personajes o elementos si la escena lo requiere
+- 2-3 personajes o elementos
 - El entorno da contexto pero sin sobrecargarse
-- Jerarquía visual clara: personaje principal en primer plano o centro
-- Mucho espacio vacío, fondos minimalistas
+- Jerarquía visual clara: los dos stickman en primer plano centrados
 - Los elementos secundarios son simples y reducidos al mínimo
-- Si hay texto en el entorno (cartel, letrero), máximo 1-2 palabras en español
+- Sin carteles ni letreros
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul cielo suave plano arriba, suelo gris muy claro (nieve) plano abajo, picos triangulares grises al horizonte
+- El fondo refleja el contexto del guion (exterior alpino nevado), nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas en todos los elementos
-- Expresiones faciales que comuniquen la emoción de la escena
-- Colores planos y suaves, paleta reducida
+- Expresión despreocupada
 - Aspecto de animación educativa simple, hecha a mano
 - Intencionalmente simple y ligeramente ridículo
-- Todos los personajes deben tener el mismo diseño de stickman que la referencia
-
-TEXTO EN IMAGEN:
-- Solo si es un cartel, letrero o etiqueta que forma parte del entorno
-- Máximo 2 palabras, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
+- Ambos personajes con el mismo diseño de stickman que la referencia
 
 NO incluir:
+- Fondo blanco puro
+- Nieve detallada con copos individuales o texturas
+- Carteles, letreros o texto de ningún tipo
 - Fondos fotorrealistas o detallados
 - Composiciones tipo cómic con viñetas
 - Infografías o esquemas
 - Más de 3 elementos principales
 - Texto en inglés
+- Gradientes o sombras
 - Estética Pixar, anime o meme
 
-Single clean narrative scene, minimal composition, no comic panel layout.
+Single clean narrative scene, flat colored contextual background, no comic panel layout.
 ```
 
 ---
@@ -348,39 +392,40 @@ Single clean narrative scene, minimal composition, no comic panel layout.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Primer plano del pie de un stickman pisando nieve. Huella quedando marcada. Simple, minimalista. Fondo nevado blanco.
+Primer plano de un pie de stickman pisando la nieve. Huella marcada justo debajo. Simple, minimalista. Solo se ve el pie y la huella, ningún otro elemento del cuerpo.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo elemento (el pie) como foco absoluto
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin copos individuales — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul cielo muy suave plano arriba, gris muy pálido (nieve) plano abajo
+- El fondo refleja el contexto del guion (exterior alpino nevado), nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
-- Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Línea negra gruesa para el pie y la huella
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
-- Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondo blanco puro
+- Nieve con textura, copos individuales o brillos
+- Carteles, etiquetas o texto de ningún tipo
+- Más de un elemento principal
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -390,39 +435,40 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Dos stickman de pie mirando hacia abajo con expresión de conmoción total: ojos enormes, manos en la boca. Una mano humana asomando entre el hielo a sus pies. Fondo blanco.
+Dos stickman de pie mirando hacia abajo con expresión de conmoción total: ojos enormes, manos negras en la boca. A sus pies, una mano humana plana de color piel asomando entre un parche plano de hielo azul claro.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Dos personajes mirando hacia abajo, mano del hielo como elemento clave
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
-- El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul cielo muy suave plano arriba, gris muy pálido (nieve) plano abajo
+- El fondo refleja el contexto del guion (exterior alpino nevado), nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión de conmoción total
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
-- Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondo blanco puro
+- Hielo con grietas, burbujas o brillos detallados
+- Carteles, etiquetas o texto de ningún tipo
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, focal element centered, flat colored contextual background.
 ```
 
 ---
@@ -432,39 +478,41 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman con uniforme de policía, gorra simple, hablando por walkie-talkie. Expresión calmada, no sabe lo que tiene delante. Fondo blanco.
+Stickman con uniforme de policía azul simple, gorra simple, hablando por un walkie-talkie negro junto a la boca. Expresión calmada, no sabe lo que tiene delante.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul cielo muy suave plano arriba, gris muy pálido (nieve) plano abajo
+- El fondo refleja el contexto del guion (exterior alpino nevado), nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión calmada
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -474,20 +522,27 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Using the attached reference image as the exact visual style to replicate, generate this image:
 
-Fondo blanco puro. Texto en negrita grande, centrado. Sin otros elementos.
+Texto en negrita grande, centrado. Sin otros elementos.
 
 IMAGE TYPE: clean text card.
 
 COMPOSITION RULES:
-- Pure white background
-- Large bold text, centered
+- Simple flat-colored background (very light, low saturation) — NOT pure white
+- Large bold text, centered, dark color for contrast
 - Simple sans-serif font
 - Text occupies 40-60% of the image width
 - No decoration, no borders, no frames
+- Background color: very light warm orange (suspense, "uh oh")
+
+COLOR AND BACKGROUND RULES (mandatory):
+- Maximum 5 flat solid colors total in the scene (including black outlines and background)
+- No gradients, no shadows, no textures — flat solid fills only
+- Coloring style: slightly rough, like hand-colored with markers in a hurry
+- Background: simple flat very light warm orange — NOT white
 
 VISUAL STYLE (identical to reference):
 - Thick black lines for any drawn element
-- Flat soft colors if any color is used
+- Flat solid colors only
 - Simple educational animation look
 - Intentionally simple and slightly ridiculous
 
@@ -505,7 +560,13 @@ The text between the triple asterisks above is the ONLY text allowed in the imag
 Do not add any other words, subtitles, captions, or labels.
 Do NOT include quotation marks of any kind (" " ' ' « ») around the text or anywhere in the image.
 
-Single clean text card, minimal composition.
+DO NOT include:
+- Pure white background
+- Multiple characters
+- Elaborate backgrounds
+- English text of any kind
+
+Single clean text card, minimal composition, flat colored background.
 ```
 
 ---
@@ -515,41 +576,40 @@ Single clean text card, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Línea de tiempo horizontal simple. Punto izquierdo: stickman con lanza etiquetado "Ötzi 5.300 a.C.". Punto central: pirámide egipcia simple etiquetada "Pirámides 2.600 a.C.". Punto derecho: stickman moderno etiquetado "Hoy". Ötzi está visiblemente mucho más a la izquierda que las pirámides. Fondo blanco.
+Línea de tiempo horizontal simple, una sola línea negra gruesa. Tres puntos marcados a lo largo: punto izquierdo con stickman primitivo con lanza (etiqueta debajo: "Ötzi 5.300 a.C."). Punto central con pirámide egipcia triangular simple (etiqueta: "Pirámides 2.600 a.C."). Punto derecho con stickman moderno (etiqueta: "Hoy"). Ötzi visiblemente mucho más a la izquierda que las pirámides.
 
 TIPO DE IMAGEN: escena narrativa, momento ancla del video.
 
 REGLAS DE COMPOSICIÓN:
-- Puede haber 2-3 personajes o elementos si la escena lo requiere
-- El entorno da contexto pero sin sobrecargarse
-- Jerarquía visual clara: personaje principal en primer plano o centro
-- Mucho espacio vacío, fondos minimalistas
-- Los elementos secundarios son simples y reducidos al mínimo
-- Si hay texto en el entorno (cartel, letrero), máximo 1-2 palabras en español
+- Línea de tiempo centrada horizontalmente
+- 3 elementos sobre la línea con sus etiquetas
+- Mucho espacio vacío
+- Las etiquetas en español, máximo 3-4 palabras cada una
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: beige cálido muy suave plano (contexto narrativo/diagramático)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas en todos los elementos
-- Expresiones faciales que comuniquen la emoción de la escena
-- Colores planos y suaves, paleta reducida
 - Aspecto de animación educativa simple, hecha a mano
 - Intencionalmente simple y ligeramente ridículo
-- Todos los personajes deben tener el mismo diseño de stickman que la referencia
-
-TEXTO EN IMAGEN:
-- Solo si es un cartel, letrero o etiqueta que forma parte del entorno
-- Máximo 2 palabras, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
+- Ambos stickman con el mismo diseño que la referencia
 
 NO incluir:
+- Fondo blanco puro
 - Fondos fotorrealistas o detallados
 - Composiciones tipo cómic con viñetas
-- Infografías o esquemas
 - Más de 3 elementos principales
 - Texto en inglés
+- Gradientes o sombras
 - Estética Pixar, anime o meme
 
-Single clean narrative scene, minimal composition, no comic panel layout.
+Single clean narrative scene, flat colored contextual background, no comic panel layout.
 ```
 
 ---
@@ -559,39 +619,41 @@ Single clean narrative scene, minimal composition, no comic panel layout.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman congelado en hielo con una flecha señalando su piel intacta. Icono simple de piel preservada junto a la flecha. Fondo blanco.
+Stickman congelado en bloque de hielo plano (azul muy claro, sin grietas ni burbujas) con una flecha negra señalando su piel intacta. Pequeño icono simple de piel/cuadrado de color piel junto a la flecha.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto, flecha + icono como complemento
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin reflejos — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul hielo muy pálido plano arriba, suelo gris piedra plano abajo (cueva alpina fría)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión serena/neutra
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Gradientes, sombras, reflejos, burbujas o grietas en el hielo
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -601,39 +663,41 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman congelado en hielo con una flecha señalando su zona de órganos. Un icono de corazón simple junto a la flecha. Fondo blanco.
+Stickman congelado en bloque de hielo plano (azul muy claro, sin grietas ni burbujas) con una flecha negra señalando su zona del pecho/órganos. Un icono de corazón rojo simple junto a la flecha.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto, flecha + icono como complemento
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin reflejos — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul hielo muy pálido plano arriba, suelo gris piedra plano abajo (cueva alpina fría)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión serena/neutra
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Gradientes, sombras, reflejos, burbujas o grietas en el hielo
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -643,39 +707,41 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman congelado en hielo con una flecha señalando el estómago. Un pequeño icono de alimento dentro del estómago visible. Fondo blanco.
+Stickman congelado en bloque de hielo plano (azul muy claro, sin grietas ni burbujas) con una flecha negra señalando el estómago. Pequeño icono simple de comida (un panecillo o forma plana redondeada) dentro del estómago visible.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto, flecha + icono como complemento
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin reflejos — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul hielo muy pálido plano arriba, suelo gris piedra plano abajo (cueva alpina fría)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión serena/neutra
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Gradientes, sombras, reflejos, burbujas o grietas en el hielo
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -685,39 +751,41 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman científico con expresión de no poder creerlo, manos en la cabeza. A su lado un panel simple con cuatro checkmarks: piel, órganos, sangre, última comida. Fondo blanco.
+Stickman científico con bata blanca y gafas con expresión de no poder creerlo: manos negras a la cabeza, ojos enormes. A su lado un panel rectangular plano simple con cuatro líneas, cada una con un checkmark verde grande (sin texto al lado de los checkmarks).
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto, panel como complemento
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin texto en el panel, solo checkmarks
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: gris muy claro plano con detalles azul suave (laboratorio/estudio científico)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión de incredulidad total
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Texto de ningún tipo (ni "piel", ni "órganos", ni nada)
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -727,39 +795,42 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Stickman de perfil con una flecha atravesándole el hombro por la espalda. Expresión neutra, ya está muerto. Fondo blanco.
+Stickman primitivo (con pelo despeinado y ropa de piel simple) de perfil con una flecha de madera marrón atravesándole el hombro por la espalda. Postura encorvada, ya cayendo. Expresión neutra/sin vida.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- Un solo personaje como foco absoluto
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas, sin sangre visible
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: marrón tierra suave plano (tono dramático, exterior alpino de la muerte)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
+- Stickman con cabeza redonda, ojos grandes simples, manos negras redondas
 - Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Expresión neutra/sin vida
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Sangre, gore o detalles dramáticos
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
+- Gradientes o sombras
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -769,39 +840,40 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Zoom en la espalda del stickman congelado. Marcas y tatuajes simples visibles en la piel: rayas paralelas y pequeñas cruces. Flechas señalando las marcas. Fondo blanco.
+Zoom en la espalda del stickman congelado dentro del bloque de hielo plano (azul muy claro, sin grietas ni burbujas). Múltiples marcas/tatuajes simples visibles en la piel: rayas paralelas cortas y pequeñas cruces agrupadas en zonas. Dos o tres flechas negras señalando los grupos de marcas.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
 REGLAS DE COMPOSICIÓN:
-- Un solo personaje o un solo objeto como foco absoluto
+- La espalda del stickman + marcas como foco absoluto
 - Centrado en la imagen con mucho espacio vacío alrededor
-- Fondo blanco o muy minimalista
 - Sin escenario elaborado, solo los elementos mínimos que den contexto
 - El elemento principal ocupa el 50-70% del encuadre
-- Si hay texto en el entorno (cartel, etiqueta), una sola palabra en español
+- Sin carteles ni etiquetas
+
+REGLAS DE COLOR Y FONDO (obligatorias):
+- Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
+- Sin gradientes, sin sombras, sin texturas, sin reflejos — rellenos planos únicamente
+- Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
+- Fondo: azul hielo muy pálido plano arriba, suelo gris piedra plano abajo (cueva alpina fría)
+- El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
-- Stickman con cabeza redonda blanca, ojos grandes simples, manos negras redondas
-- Líneas negras gruesas
-- Expresión facial que comunique la emoción de la escena
-- Colores planos y suaves, pocos colores
+- Stickman con cabeza redonda, líneas negras gruesas
+- Marcas/cruces simples dibujadas con línea negra fina
 - Aspecto de dibujo rápido hecho a mano
 - Intencionalmente simple y ligeramente ridículo
 
-TEXTO EN IMAGEN:
-- Solo si es un cartel o etiqueta que forma parte del entorno visual
-- Una palabra máximo, en español/castellano
-- Sin subtítulos, sin captions, sin frases del guion
-
 NO incluir:
+- Fondo blanco puro
+- Gradientes, sombras, reflejos, burbujas o grietas en el hielo
+- Carteles, etiquetas o texto de ningún tipo
 - Más de un personaje principal
-- Fondos detallados
-- Múltiples objetos
+- Fondos detallados o fotorrealistas
 - Composiciones tipo cómic o infografía
 - Texto en inglés
 
-Single clean icon scene, one focal element, minimal composition.
+Single clean icon scene, one focal element, flat colored contextual background.
 ```
 
 ---
@@ -811,20 +883,27 @@ Single clean icon scene, one focal element, minimal composition.
 ```
 Using the attached reference image as the exact visual style to replicate, generate this image:
 
-Fondo blanco puro. Texto en negrita grande, centrado. Sin otros elementos.
+Texto en negrita grande, centrado. Sin otros elementos.
 
 IMAGE TYPE: clean text card.
 
 COMPOSITION RULES:
-- Pure white background
-- Large bold text, centered
+- Simple flat-colored background (very light, low saturation) — NOT pure white
+- Large bold text, centered, dark color for contrast
 - Simple sans-serif font
 - Text occupies 40-60% of the image width
 - No decoration, no borders, no frames
+- Background color: very light warm beige (tono narrativo/transición)
+
+COLOR AND BACKGROUND RULES (mandatory):
+- Maximum 5 flat solid colors total in the scene (including black outlines and background)
+- No gradients, no shadows, no textures — flat solid fills only
+- Coloring style: slightly rough, like hand-colored with markers in a hurry
+- Background: simple flat very light warm beige — NOT white
 
 VISUAL STYLE (identical to reference):
 - Thick black lines for any drawn element
-- Flat soft colors if any color is used
+- Flat solid colors only
 - Simple educational animation look
 - Intentionally simple and slightly ridiculous
 
@@ -842,7 +921,13 @@ The text between the triple asterisks above is the ONLY text allowed in the imag
 Do not add any other words, subtitles, captions, or labels.
 Do NOT include quotation marks of any kind (" " ' ' « ») around the text or anywhere in the image.
 
-Single clean text card, minimal composition.
+DO NOT include:
+- Pure white background
+- Multiple characters
+- Elaborate backgrounds
+- English text of any kind
+
+Single clean text card, minimal composition, flat colored background.
 ```
 
 ---
@@ -852,20 +937,27 @@ Single clean text card, minimal composition.
 ```
 Using the attached reference image as the exact visual style to replicate, generate this image:
 
-Fondo blanco puro. Texto en negrita grande, centrado. Sin otros elementos.
+Texto en negrita grande, centrado. Sin otros elementos.
 
 IMAGE TYPE: clean text card.
 
 COMPOSITION RULES:
-- Pure white background
-- Large bold text, centered
+- Simple flat-colored background (very light, low saturation) — NOT pure white
+- Large bold text, centered, dark color for contrast
 - Simple sans-serif font
 - Text occupies 40-60% of the image width
 - No decoration, no borders, no frames
+- Background color: very light warm beige (continuidad con IMG 20)
+
+COLOR AND BACKGROUND RULES (mandatory):
+- Maximum 5 flat solid colors total in the scene (including black outlines and background)
+- No gradients, no shadows, no textures — flat solid fills only
+- Coloring style: slightly rough, like hand-colored with markers in a hurry
+- Background: simple flat very light warm beige — NOT white
 
 VISUAL STYLE (identical to reference):
 - Thick black lines for any drawn element
-- Flat soft colors if any color is used
+- Flat solid colors only
 - Simple educational animation look
 - Intentionally simple and slightly ridiculous
 
@@ -883,7 +975,13 @@ The text between the triple asterisks above is the ONLY text allowed in the imag
 Do not add any other words, subtitles, captions, or labels.
 Do NOT include quotation marks of any kind (" " ' ' « ») around the text or anywhere in the image.
 
-Single clean text card, minimal composition.
+DO NOT include:
+- Pure white background
+- Multiple characters
+- Elaborate backgrounds
+- English text of any kind
+
+Single clean text card, minimal composition, flat colored background.
 ```
 
 ---

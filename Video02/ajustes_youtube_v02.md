@@ -41,21 +41,36 @@ YouTube te puso 2 anuncios al inicio + mid-roll porque por defecto los pone todo
 
 ---
 
-## TÍTULO
+## TÍTULOS (opciones — decidir antes de publicar)
 
-> El primer médico del mundo firmó su trabajo en la piel de un cadáver congelado
+### ✅ Opción 1 — CONCUERDA CON LA MINIATURA C (split screen)
 
-**Por qué este título:**
-- Declarativo + imagen poética = curiosity gap fuerte. La frase plantea una imagen concreta ("firmó su trabajo en la piel") que el cerebro necesita descifrar.
+> **El primer médico del mundo firmó su trabajo en la piel de un cadáver congelado**
+
+Por qué empareja con la miniatura C:
+- La miniatura aporta el "qué" visual (las marcas + acupuntura), el título aporta el "qué pasó".
+- Declarativo + imagen poética = curiosity gap fuerte. "Firmó su trabajo en la piel" obliga al cerebro a descifrarlo.
 - "Cadáver congelado" es visceral, no académico.
 - "Primer médico del mundo" es la promesa grande sin spoiler — no menciona ni acupuntura ni Ötzi ni tatuajes (los tres giros del vídeo).
-- Empareja con la miniatura C: la miniatura aporta el "qué" visual (las marcas + acupuntura), el título aporta el "qué pasó".
-- Más largo que el del V01 (75 caracteres), pero los títulos largos descriptivos rinden bien en historia/ciencia siempre que el primer tercio enganche, y aquí "El primer médico del mundo" engancha solo.
+- Más largo (75 caracteres), pero los títulos largos descriptivos rinden bien en historia/ciencia si el primer tercio engancha, y "El primer médico del mundo" engancha solo.
 
-**Alternativas guardadas por si quieres probar A/B en el futuro:**
-- "Tenía 61 tatuajes y nadie sabía quién se los hizo" (más intriga del autor)
-- "Tenía 61 tatuajes y todos curaban algo" (más directo, abre loop)
-- "Este hombre lleva 5.300 años congelado y nos enseñó medicina"
+### Opción 2
+
+> Tenía 61 tatuajes y nadie sabía quién se los hizo
+
+Más intriga del autor. Encaja con miniaturas centradas en el cuerpo de Ötzi sin la lámina de acupuntura.
+
+### Opción 3
+
+> Tenía 61 tatuajes y todos curaban algo
+
+Más directo, abre loop. Encaja con miniaturas que enseñen los tatuajes como elemento principal.
+
+### Opción 4
+
+> Este hombre lleva 5.300 años congelado y nos enseñó medicina
+
+Más narrativo y conversacional. Encaja con miniaturas centradas en el hielo / hallazgo en los Alpes.
 
 ---
 
@@ -230,7 +245,7 @@ El Short del V01 ("El primer dentista del mundo era un neandertal") está funcio
 
 ## CHECKLIST ANTES DE PUBLICAR
 
-- [ ] Título "Tenía 61 tatuajes y todos curaban algo" puesto correctamente
+- [ ] Título elegido entre las 4 opciones (por defecto: Opción 1, la que empareja con la miniatura C)
 - [ ] Descripción pegada con los 3 hashtags arriba del todo
 - [ ] Tags pegados (campo Etiquetas)
 - [ ] Miniatura subida manualmente (no la automática)
