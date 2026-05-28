@@ -18,23 +18,11 @@ La referencia de tono es: un amigo inteligente que acaba de descubrir algo que l
 | Campo | Valor |
 |---|---|
 | **Plataforma** | ElevenLabs |
-| **Nombre de la voz** | [Rellenar tras pruebas — ver candidatas abajo] |
-| **ID de voz** | [Rellenar] |
+| **Tipo de voz** | Voz única propia — creada con Voice Design el 28-05-2026 |
+| **ID de voz** | [Rellenar desde ElevenLabs > My Voices] |
 | **Idioma** | Español de España (castellano) |
 | **Género** | Masculino |
-| **Tono base** | Cálido, medio, ligeramente cercano |
-
-### Candidatas a probar (voces ElevenLabs en español)
-
-Probar estas voces con el mismo fragmento de guion (ver sección "Texto de prueba" al final):
-
-- **Antoni** — voz masculina cálida, buen español
-- **Mateo** — voz nativa en español, calidez media
-- **Valentín** — voz masculina con buen rango emocional
-- **Brian** — alternativa si se prefiere tono más grave
-- Cualquier voz clonada propia si se decide ese camino
-
-> **Criterio de selección:** La voz ganadora es la que suena más natural en frases cortas entrecortadas y en preguntas retóricas. Si suena bien leyendo el texto de prueba, funcionará en todo el canal.
+| **Tono base** | Cálido, rico, ligeramente ronco. Maduro sin ser viejo. Envolvente. |
 
 ---
 

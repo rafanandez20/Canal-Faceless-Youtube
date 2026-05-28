@@ -374,27 +374,32 @@ El hook empieza con una acción cotidiana del espectador conectada con el tema.
 
 **Objetivo de tono:** Un amigo inteligente que acaba de descubrir algo y te lo cuenta de noche, sentado frente a ti. NO locutor de documental, NO presentador de noticias.
 
-**Configuración de parámetros en ElevenLabs:**
+**Configuración de parámetros en ElevenLabs (aprobados 28-05-2026):**
 
 | Parámetro | Valor |
 |---|---|
-| Stability | 0.35 – 0.45 |
-| Similarity Boost | 0.80 – 0.85 |
-| Style | 0.20 – 0.30 |
+| Speed | 1.11 |
+| Stability | 0.30 |
+| Similarity Boost | 0.50 |
+| Style | 0.50 |
 | Speaker Boost | ON |
-| Modelo | Eleven Multilingual v2 / Turbo v2 |
+| Modelo | Eleven Multilingual v2 |
+
+> Voz: diseño propio creado con Voice Design el 28-05-2026. Detalle completo en `Produccion/voz_elevenlabs_config.md`.
 
 **Reglas de puntuación en el guion para controlar la voz:**
 
 | Efecto deseado | Cómo escribirlo |
 |---|---|
-| Pausa corta (énfasis) | Coma `,` |
-| Pausa media | Punto `.` |
-| Pausa larga (impacto) | Punto + línea en blanco |
-| Pausa muy larga (suspense) | `...` |
+| Pausa cortísima (énfasis) | Coma `,` |
+| Pausa normal (cambio de idea) | Punto `.` |
+| Pausa dramática — máx 3-4 por vídeo | `...` |
+| Pausa de impacto máximo — 1 vez por vídeo | Frase sola en su párrafo |
 | Énfasis fuerte | MAYÚSCULAS |
 | Pregunta retórica | Terminar con `?` |
 | Cierre reflexivo | Frase corta + punto final |
+
+> ⚠️ Punto + línea en blanco eliminado del uso habitual — ralentiza demasiado el ritmo.
 
 **Volumen final del audio:** Normalizar a **-14 LUFS** (estándar YouTube).
 

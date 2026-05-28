@@ -163,17 +163,30 @@ Canal Viral Youtube/
 | 27 mayo 2026 | Short vídeo #01 programado para publicación (19:30h) |
 | 28 mayo 2026 | Guión vídeo #02 finalizado — cierre reescrito (opción filosófica, sin CTA) |
 | 28 mayo 2026 | Voz única creada en ElevenLabs con Voice Design |
-| 28 mayo 2026 | Parámetros de voz confirmados: Speed 1.10 · Stability 0.30 · Similarity 0.75 · Style 0.50 · Eleven Multilingual v2 |
-| 28 mayo 2026 | Limpieza de archivos: eliminadas todas las referencias a música de fondo (no se usa en el canal) |
+| 28 mayo 2026 | Parámetros de voz aprobados: Speed 1.11 · Stability 0.30 · Similarity 0.50 · Style 0.50 · Eleven Multilingual v2 |
+| 28 mayo 2026 | Audio vídeo #02 generado — duración real: **7:00 min** |
+| 28 mayo 2026 | Limpieza completa de archivos: música eliminada, guía y config sincronizadas, archivo v1_original redundante borrado |
+| 28 mayo 2026 | Prompts listos para Google Labs Flow completados — 120 prompts (imgs 1–120) en Video02/prompts_guion_02.md |
+
+---
+
+## DECISIONES TOMADAS (no reabrir sin datos)
+
+| Decisión | Detalle | Fecha |
+|---|---|---|
+| **Duración vídeos (fase pre-YPP)** | No se añade relleno para llegar a 8 min. Calidad y retención por encima de duración. Cuando el canal monetice, se ajustará a 8+ min. | 28 mayo 2026 |
+| **Música de fondo** | No se usa. Solo voz en off. Definitivo. | 28 mayo 2026 |
+| **Voz ElevenLabs** | Voice Design propia. Speed 1.11 · Stability 0.30 · Similarity 0.50 · Style 0.50 · Multilingual v2. Desde vídeo 02. | 28 mayo 2026 |
+| **Principio data-driven** | Toda decisión debe basarse en datos. Claude avisa siempre que una decisión sea por intuición y propone qué dato haría falta para validarla. | 28 mayo 2026 |
 
 ---
 
 ## PRÓXIMOS PASOS
 
-- [ ] Generar audio de prueba vídeo #02 (empezar por el hook)
-- [ ] Validar duración del audio completo — ajustar guion si queda por debajo de 8 min
-- [ ] Rellenar tabla "Versión aprobada" en voz_elevenlabs_config.md con los parámetros validados
-- [ ] Generar prompts de imágenes vídeo #02
+- [x] Generar audio vídeo #02 — completado 28 mayo 2026
+- [ ] Rellenar tabla "Versión aprobada" en voz_elevenlabs_config.md con el nombre exacto de la voz creada
+- [x] Generar prompts de imágenes vídeo #02 — 120 imágenes (ritmo Zenn: ~3,5 seg/imagen) en Video02/imagenes_guion_02.md
+- [x] Generar prompts listos para Google Labs Flow — 120 prompts completos en Video02/prompts_guion_02.md — completado 28 mayo 2026
 - [ ] Generar imágenes vídeo #02 en Google Labs Flow
 - [ ] Editar vídeo #02 en CapCut
 - [ ] Crear miniatura vídeo #02

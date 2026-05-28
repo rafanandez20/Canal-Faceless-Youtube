@@ -2,7 +2,7 @@
 
 **Total: 121 imágenes | ~8 min 20 seg estimados**
 
-> ⚠️ **v2 — modificado:** 22 diapositivas convertidas de TEXTO a ICONO/ESCENA. Versión original guardada como `imagenes_guion_01_v1_original.md`.
+> ⚠️ **v2 — modificado:** 22 diapositivas convertidas de TEXTO a ICONO/ESCENA respecto a la versión inicial.
 
 **Tipos:**
 - `TEXTO` — solo texto en pantalla, corte rápido (2–3 seg)
