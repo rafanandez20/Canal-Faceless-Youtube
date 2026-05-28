@@ -1,30 +1,34 @@
 # GUION — Video 02: Los tatuajes médicos de Ötzi
 
-**Duración objetivo:** 8:10 – 8:30 min
+**Duración estimada:** 6:30 – 6:45 min (calculada con voz definitiva: Speed 1.11, Multilingual v2)
 **Idioma:** Español de España (castellano)
 **Tono:** Curiosidad rápida y sorprendente. Frenético, NO lento como vídeo 1.
 **Nicho:** Lo que la historia oculta sobre el ser humano (ángulo: dolor y solución)
 
-**Ritmo de audio (según `Produccion/voz_elevenlabs_config.md`, actualizado 27-05):**
+**Ritmo de audio (según `Produccion/voz_elevenlabs_config.md`, actualizado 28-05):**
 - Frases cortas agrupadas sin pausas largas = aceleración. Línea en blanco SOLO en cambio de idea real.
 - `...` usado al mínimo (máx 3-4 en todo el vídeo).
 - Una sola frase aislada para el impacto máximo: **"Coincidían."** (Bloque 3).
-- MAYÚSCULAS = énfasis fuerte en esa palabra. Speed 1.10-1.15, Style 0.45-0.55.
+- MAYÚSCULAS = énfasis fuerte en esa palabra.
+- Voz definitiva: Speed 1.11, Stability 0.30, Similarity 0.50, Style 0.50, Multilingual v2.
 - Hook: rápido-medio. Desarrollo: rápido. Cierre: medio-lento (único tramo que respira).
+- **El cierre puede generarse aparte con Speed 1.00-1.05** si suena demasiado rápido en pruebas.
 
 ---
 
-## HOOK · 0:00 – 0:35
+## HOOK · 0:00 – 0:25
 
-Dime cuándo crees que nació la medicina. ¿Hace doscientos años, con los antibióticos? ¿Hace quinientos, con el Renacimiento? ¿Hace dos mil, con los griegos?
+Este hombre lleva cinco mil trescientos años muerto.
 
-Todos nos equivocamos.
+Y sigue medicado.
 
-La respuesta es hace CINCO MIL TRESCIENTOS años. Y lo sabemos porque el médico más antiguo del mundo dejó sus recetas escritas en la piel de su paciente. Y ese paciente lleva congelado desde entonces.
+Cuando lo descongelaron, descubrieron que su piel guardaba un secreto que reescribe la historia de la medicina. Sesenta y una marcas. Repartidas por todo el cuerpo. Y cuando un grupo de investigadores logró descifrar qué significaban, lo que encontraron no debería existir.
+
+Para entenderlo, hay que volver al día que apareció.
 
 ---
 
-## BLOQUE 1 · ¿Quién es Ötzi? · 0:35 – 1:45
+## BLOQUE 1 · ¿Quién es Ötzi? · 0:25 – 1:15
 
 Año 1991. Dos excursionistas cruzan los Alpes, en la frontera entre Italia y Austria, y se encuentran un cadáver asomando entre el hielo. Llaman a la policía. Piensan que es un montañero que tuvo un accidente hace poco. No tenían ni idea.
 
@@ -34,7 +38,7 @@ Es el cuerpo humano antiguo mejor conservado de la historia. Sabemos qué comió
 
 ---
 
-## BLOQUE 2 · Los tatuajes que nadie entendía · 1:45 – 3:00
+## BLOQUE 2 · Los tatuajes que nadie entendía · 1:15 – 1:55
 
 Cuando los científicos examinaron el cuerpo, encontraron algo que no esperaban. Tatuajes. SESENTA Y UNO. Pero no eran dibujos. No había animales, ni dioses, ni símbolos tribales. Eran simplemente líneas. Pequeñas rayas y cruces agrupadas por todo el cuerpo.
 
@@ -42,7 +46,7 @@ Y aquí viene lo raro. Cuando alguien se tatúa para presumir, ¿dónde se lo ha
 
 ---
 
-## BLOQUE 3 · El giro · 3:00 – 4:30
+## BLOQUE 3 · El giro · 1:55 – 2:55
 
 Un grupo de investigadores tuvo una idea. Cogieron la posición exacta de los sesenta y un tatuajes y la compararon con los puntos de acupuntura de la medicina china. Y lo que vieron les dejó helados.
 
@@ -52,7 +56,7 @@ Casi todos. Los tatuajes de Ötzi estaban colocados, uno por uno, sobre puntos d
 
 ---
 
-## BLOQUE 4 · Cada tatuaje cura algo · 4:30 – 6:00
+## BLOQUE 4 · Cada tatuaje cura algo · 2:55 – 4:00
 
 Pero esto todavía podría ser casualidad. Así que los científicos fueron más allá. Le hicieron radiografías y escáneres, y descubrieron que Ötzi, a sus cuarenta y cinco años, era un hombre destrozado. Tenía artritis. Desgaste severo en las rodillas. La zona lumbar machacada. Articulaciones inflamadas por toda una vida cruzando montañas.
 
@@ -62,7 +66,7 @@ Y hay más. En sus intestinos encontraron parásitos, un gusano que provoca dolo
 
 ---
 
-## BLOQUE 5 · ¿Quién se los hizo? · 6:00 – 7:00
+## BLOQUE 5 · ¿Quién se los hizo? · 4:00 – 4:55
 
 Y ahora la pregunta que de verdad pone los pelos de punta. Intenta tatuarte a ti mismo la mitad de la espalda. No puedes. No llegas, no ves, no tienes precisión. Los tatuajes de Ötzi están en sitios que él jamás habría podido alcanzar solo. Lo que significa que alguien se los hizo.
 
@@ -70,13 +74,13 @@ Alguien que sabía exactamente qué puntos tocar. Que entendía qué línea aliv
 
 ---
 
-## BLOQUE 6 · El dato que revienta la cabeza · 7:00 – 7:50
+## BLOQUE 6 · El dato que revienta la cabeza · 4:55 – 5:40
 
 Y por si esto fuera poco, aquí va lo último. Ötzi no es el único. Se han encontrado otras momias por el mundo, en Egipto, en Sudamérica, en Siberia, con tatuajes colocados también sobre puntos para tratar el dolor. Culturas que vivían a océanos de distancia. Que jamás se conocieron. Que no compartían idioma, ni dioses, ni nada. Y aun así, todas llegaron a la misma idea: marcar el cuerpo para curarlo. ¿Cómo es posible que humanos sin ningún contacto descubrieran lo mismo por separado? ¿Lo inventamos varias veces, o había un conocimiento que toda la humanidad compartía y que en algún momento perdimos?
 
 ---
 
-## CIERRE · 7:50 – 8:20
+## CIERRE · 5:40 – 6:35
 
 Damos por hecho que la medicina es algo moderno. Que antes de nosotros solo había superstición y hierbas. Pero Ötzi lleva cinco mil trescientos años demostrándonos lo contrario: un hombre de la Edad de Cobre tratándose el dolor con una precisión que tardamos milenios en redescubrir.
 

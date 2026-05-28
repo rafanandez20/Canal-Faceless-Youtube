@@ -1,6 +1,6 @@
 # Configuración de Voz — ElevenLabs
 ## Canal: [Nombre del canal]
-**Última actualización:** 27 de mayo de 2026
+**Última actualización:** 28 de mayo de 2026
 
 ---
 
@@ -56,17 +56,26 @@ Probar estas voces con el mismo fragmento de guion (ver sección "Texto de prueb
 
 > ⚠️ **Importante:** Probar primero con Speed 1.10. Si sigue sonando lento, subir a 1.15. No superar 1.20 — se pierde la articulación en consonantes del castellano.
 
-### Versión en prueba (pendiente validar audio completo)
+### Versión APROBADA (28-05-2026) — usar a partir del Video 02
 
 | Parámetro | Valor |
 |---|---|
 | Voz | Voz única creada con Voice Design (28-05-2026) |
-| Speed | 1.10 |
-| Stability | 0.30 |
-| Similarity Boost | 0.75 |
-| Style | 0.50 |
+| Speed | **1.11** |
+| Stability | **0.30** (30%) |
+| Similarity Boost | **0.50** (50%) |
+| Style | **0.50** (50%) |
 | Speaker Boost | — (confirmar si aparece en interfaz) |
-| Modelo | Eleven Multilingual v2 |
+| Modelo | **Eleven Multilingual v2** |
+
+> ⚠️ **Cambio importante respecto a la config anterior:** Similarity bajada de 0.75 → 0.50. Esto da MUCHA más libertad expresiva a la voz, ideal para los guiones frenéticos. **Riesgo:** posible inconsistencia entre fragmentos generados por separado. Generar el vídeo entero de una sola pasada si es posible.
+
+### Consideraciones específicas con Similarity 0.50
+
+- **Cierres reflexivos**: el último bloque del vídeo (filosófico, calmado) puede quedarse demasiado rápido con Speed 1.11. Generar el cierre por separado con Speed 1.00-1.05 si suena demasiado plano de ritmo.
+- **Frases de impacto aisladas** (ej: "Coincidían." en V02): si suenan demasiado neutras, añadir `...` o reescribir con contexto adicional para forzar entonación.
+- **Palabras raras / nombres propios**: si la pronunciación falla, escribirlas fonéticamente entre guiones (`Sha-ni-dar`, `acu-presión`).
+- **Inhalaciones o suspiros inventados**: con Style alto + Similarity bajo a veces ElevenLabs inserta sonidos de respiración donde no toca. Regenerar el fragmento si pasa.
 
 ---
 
@@ -163,3 +172,4 @@ La respuesta cambia todo lo que crees saber sobre el sueño.
 |---|---|---|
 | 20 mayo 2026 | Creación del documento | Setup inicial del canal |
 | 27 mayo 2026 | Speed +10-15%, Style 0.20→0.45, Stability 0.35→0.25, reglas de puntuación revisadas, tabla de ritmo por sección actualizada | Feedback de viewers: voz monótona y ritmo muy lento |
+| 28 mayo 2026 | Valores definitivos: Speed 1.11, Stab 0.30, Sim 0.50, Style 0.50, Multilingual v2. Bajada de Similarity 0.75→0.50 para máxima expresividad. | Validación post-pruebas. Aplicar desde V02. |
