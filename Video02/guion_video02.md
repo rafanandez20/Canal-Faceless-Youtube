@@ -82,4 +82,4 @@ Damos por hecho que la medicina es algo moderno. Que antes de nosotros solo hab�
 
 Y eso deja una pregunta incómoda. ¿Cuánto sabían los humanos de hace miles de años que nosotros hemos olvidado por completo? Ötzi no se llevó su secreto a la tumba. Lo llevó tatuado en la piel, esperando, congelado, a que algún día lo entendiéramos.
 
-Si te ha volado la cabeza tanto como a mí, dime en los comentarios qué crees tú: ¿lo descubrimos varias veces, o lo olvidamos? Y suscríbete, porque la historia del ser humano está llena de secretos como este.
+Llevamos siglos creyendo que el progreso va siempre hacia adelante. Que cada generación sabe más que la anterior. Ötzi nos recuerda que eso no siempre es verdad. Que a veces el conocimiento no avanza, se pierde. Y que lo que llamamos descubrimiento, muchas veces no es más que recordar.

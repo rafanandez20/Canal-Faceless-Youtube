@@ -228,7 +228,6 @@ Tienen opciones con y sin vídeos previos, con más o menos suscriptores. Alguno
 | **GenI Pro** | Alternativa a ElevenLabs para locuciones | ~$22/millón de créditos | ~1-2 €/vídeo |
 | **CapCut Pro** | Edición de vídeo | 23,99 €/mes | Suficiente para el formato. Se puede empezar con la versión gratuita. |
 | **Google Labs Flow** | Generación de imágenes para los vídeos y miniaturas | Incluido en cuenta Google | Modelo: Nano Banana 2 (o el disponible en el momento) |
-| **Epidemic Sound** | Música libre de derechos | ~15 €/mes | Recomendado. Alternativas: Artlist, YouTube Audio Library (gratis) |
 
 ### Coste por vídeo (referencia real)
 
@@ -396,18 +395,6 @@ El hook empieza con una acción cotidiana del espectador conectada con el tema.
 | Énfasis fuerte | MAYÚSCULAS |
 | Pregunta retórica | Terminar con `?` |
 | Cierre reflexivo | Frase corta + punto final |
-
-**Mezcla de audio:**
-
-| Elemento | Volumen |
-|---|---|
-| Voz | 0 dB (referencia) |
-| Música durante desarrollo | -18 a -20 dB |
-| Música durante hook | -14 a -16 dB |
-| Música durante cierre | -20 a -22 dB |
-| Efectos de sonido | -10 a -12 dB |
-
-**Tipo de música:** Ambient minimalista, sin letra. Estilo Hans Zimmer (Interstellar), drone ambiental. Evitar percusión épica — rompe la intimidad del formato.
 
 **Volumen final del audio:** Normalizar a **-14 LUFS** (estándar YouTube).
 

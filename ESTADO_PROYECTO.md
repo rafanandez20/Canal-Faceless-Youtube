@@ -114,8 +114,6 @@ Canal Viral Youtube/
 - Estructura de cada vídeo (hook → desarrollo → cierre reflexivo)
 - Configuración exacta de ElevenLabs (Stability, Similarity Boost, Style, Speaker Boost)
 - Reglas de puntuación en el guion para controlar la voz IA
-- Mezcla de audio (volúmenes en dB por sección)
-- Fuentes de música libre de derechos
 
 ### 🎨 Estilo visual
 - Prompt maestro para imágenes del vídeo (estilo ultra-simple, fondo blanco)
@@ -163,14 +161,23 @@ Canal Viral Youtube/
 | 26 mayo 2026 | Guía completa del canal redactada |
 | 26 mayo 2026 | Respuestas a comentarios vídeo #01 documentadas |
 | 27 mayo 2026 | Short vídeo #01 programado para publicación (19:30h) |
+| 28 mayo 2026 | Guión vídeo #02 finalizado — cierre reescrito (opción filosófica, sin CTA) |
+| 28 mayo 2026 | Voz única creada en ElevenLabs con Voice Design |
+| 28 mayo 2026 | Parámetros de voz confirmados: Speed 1.10 · Stability 0.30 · Similarity 0.75 · Style 0.50 · Eleven Multilingual v2 |
+| 28 mayo 2026 | Limpieza de archivos: eliminadas todas las referencias a música de fondo (no se usa en el canal) |
 
 ---
 
 ## PRÓXIMOS PASOS
 
-- [ ] Publicar Short vídeo #01 (27 mayo, 19:30h)
-- [ ] Empezar producción vídeo #02 — *¿Y si NOSOTROS somos los neandertales?*
-- [ ] Validar voz ElevenLabs definitiva y rellenar tabla de parámetros aprobados
+- [ ] Generar audio de prueba vídeo #02 (empezar por el hook)
+- [ ] Validar duración del audio completo — ajustar guion si queda por debajo de 8 min
+- [ ] Rellenar tabla "Versión aprobada" en voz_elevenlabs_config.md con los parámetros validados
+- [ ] Generar prompts de imágenes vídeo #02
+- [ ] Generar imágenes vídeo #02 en Google Labs Flow
+- [ ] Editar vídeo #02 en CapCut
+- [ ] Crear miniatura vídeo #02
+- [ ] Preparar info de publicación vídeo #02 (título, descripción, tags, timestamps)
 - [ ] Subir proyecto a GitHub para acceso compartido con el equipo
 
 ---

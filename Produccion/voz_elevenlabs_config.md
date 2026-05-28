@@ -56,17 +56,17 @@ Probar estas voces con el mismo fragmento de guion (ver sección "Texto de prueb
 
 > ⚠️ **Importante:** Probar primero con Speed 1.10. Si sigue sonando lento, subir a 1.15. No superar 1.20 — se pierde la articulación en consonantes del castellano.
 
-### Versión aprobada (rellenar tras validar)
+### Versión en prueba (pendiente validar audio completo)
 
-| Parámetro | Valor final aprobado |
+| Parámetro | Valor |
 |---|---|
-| Voz | — |
-| Speed | — |
-| Stability | — |
-| Similarity Boost | — |
-| Style | — |
-| Speaker Boost | — |
-| Modelo | Eleven Multilingual v2.5 / Eleven Flash v2.5 |
+| Voz | Voz única creada con Voice Design (28-05-2026) |
+| Speed | 1.10 |
+| Stability | 0.30 |
+| Similarity Boost | 0.75 |
+| Style | 0.50 |
+| Speaker Boost | — (confirmar si aparece en interfaz) |
+| Modelo | Eleven Multilingual v2 |
 
 ---
 
@@ -121,30 +121,6 @@ Cada video tiene tres fases emocionales. La voz debe reflejarlas:
 | **Hook** (gancho) | 0:00 – 0:45 | Íntimo pero con energía. Como revelando algo urgente. | **Rápido-medio**, solo 1-2 pausas dramáticas |
 | **Desarrollo** (ciencia) | 0:45 – 6:00 | Curioso, energético, casi emocionado. | **Rápido**, sin pausas innecesarias |
 | **Cierre** (reflexión) | 6:00 – fin | Calmado, filosófico. El único momento que puede ser lento. | Medio-lento, con 1-2 pausas al final |
-
----
-
-## Música de fondo y mezcla de audio
-
-La voz de ElevenLabs va mezclada con música. Estas son las reglas de mezcla para que la voz siempre se entienda con claridad:
-
-| Elemento | Volumen relativo |
-|---|---|
-| Voz | 0 dB (referencia) |
-| Música durante desarrollo | -18 dB a -20 dB |
-| Música durante hook | -14 dB a -16 dB (más presente, más tensión) |
-| Música durante cierre | -20 dB a -22 dB (se retira, la voz protagoniza) |
-| Efectos de sonido puntuales | -10 dB a -12 dB |
-
-**Tipo de música recomendada:**
-- Ambient minimalista, sin letra
-- Referencia de estilo: Hans Zimmer (Interstellar), música de meditación oscura, drone ambiental
-- Evitar: música de YouTube "epicidad" con percusión fuerte — rompe la intimidad del formato
-
-**Fuentes de música libre de derechos:**
-- Epidemic Sound (recomendado para YouTube)
-- Artlist
-- YouTube Audio Library (gratis pero más limitado)
 
 ---
 
