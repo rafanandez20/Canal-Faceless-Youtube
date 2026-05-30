@@ -180,7 +180,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***61 marcas.***
+***61 marcas***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -322,7 +322,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***1991.***
+***1991***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -554,7 +554,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***No tenían ni idea.***
+***No tenían ni idea***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -915,7 +915,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Lo más fascinante no es cómo murió.***
+***Lo más fascinante no es cómo murió***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -969,7 +969,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Es lo que llevaba dibujado en la piel.***
+***Es lo que llevaba dibujado en la piel***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -1131,7 +1131,7 @@ Single clean text card, minimal composition, flat colored background.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Silueta simple del cuerpo de Ötzi con pequeños puntos y rayas distribuidos en zona lumbar, rodillas y tobillos. Sin dibujos elaborados, solo líneas y marcas simples.
+Silueta simple del cuerpo de Ötzi con pequeños puntos y rayas distribuidos en zona lumbar, rodillas y tobillos. Sin dibujos elaborados, solo líneas y marcas simples. Sigue el estilo de la imagen adjunta (de los tatoos)
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
@@ -1667,7 +1667,7 @@ Single clean icon scene, one focal element, flat colored contextual background.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Primer plano de dos láminas casi superpuestas, los puntos casi se alinean pero todavía no del todo. Tensión visual máxima. Sin personaje, solo las láminas protagonizan.
+Primer plano de DOS láminas casi superpuestas, los puntos casi se alinean pero todavía no del todo. Tensión visual máxima. Sin personaje, solo las láminas protagonizan.
 
 TIPO DE IMAGEN: icono simple, un único elemento visual protagonista.
 
@@ -1831,7 +1831,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Coincidían.***
+***Coincidían***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -1991,7 +1991,7 @@ Single clean text card, minimal composition, flat colored background.
 ```
 Usando la imagen de referencia adjunta como guía de estilo, genera esta imagen:
 
-Línea de tiempo horizontal. Tres puntos marcados: Ötzi a la izquierda (etiqueta "5.300 a.C."), acupuntura china en el centro (etiqueta "2.000 a.C."), y hoy a la derecha. Una flecha doble entre el punto de Ötzi y el de China indica la distancia temporal.
+Línea de tiempo horizontal. Tres puntos marcados: Ötzi a la izquierda (etiqueta Texto "5.300 a.C."), acupuntura china en el centro (etiqueta Texto "2.000 a.C."), y hoy a la derecha. Una flecha doble entre el punto de Ötzi y el de China indica la distancia temporal.
 
 TIPO DE IMAGEN: escena narrativa, momento ancla del video.
 
@@ -2295,7 +2295,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Dos mil años antes.***
+***Dos mil años antes***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -3107,7 +3107,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Esto no es decoración.***
+***Esto no es decoración***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -3155,7 +3155,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Es un mapa del dolor.***
+***Es un mapa del dolor***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -3383,7 +3383,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Alguien se los hizo.***
+***Alguien se los hizo***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -3703,7 +3703,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Seguimos usando esos mismos puntos HOY.***
+***Seguimos usando esos mismos puntos HOY***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -3795,7 +3795,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***El primer médico no tiene nombre.***
+***El primer médico no tiene nombre***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -3826,7 +3826,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige muy suave plano (narrativo/reflexivo)
+- Fondo: beige muy suave plano arriba (interior neutro), suelo beige oscuro plano abajo — interior simple, línea de suelo visible
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -3870,7 +3870,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: marrón tierra suave plano (contexto primitivo)
+- Fondo: marrón rojizo pálido plano arriba (cielo exterior primitivo), suelo marrón oscuro plano abajo, una roca gris simple plana al fondo
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -3975,7 +3975,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Ötzi no es el único.***
+***Ötzi no es el único***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -4054,7 +4054,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: amarillo arena muy suave plano (contexto egipcio/desierto)
+- Fondo: azul claro muy suave plano arriba (cielo del desierto egipcio), amarillo arena plano abajo, silueta de pirámide triangular simple al fondo
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4098,7 +4098,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: verde menta muy suave plano (contexto selvático/sudamericano)
+- Fondo: verde oscuro suave plano arriba (dosel selvático), verde menta plano abajo (suelo selvático), tronco de árbol simple al fondo
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4142,7 +4142,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: azul gris muy suave plano (contexto frío/siberiano)
+- Fondo: azul gris claro plano arriba (cielo siberiano), blanco grisáceo plano abajo (suelo nevado de Siberia), horizonte nevado simple al fondo
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4251,7 +4251,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Jamás se conocieron.***
+***Jamás se conocieron***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -4282,7 +4282,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige muy claro plano (contexto corporal/comparativo)
+- Fondo: beige muy claro plano arriba (pared neutra de laboratorio), gris claro plano abajo (suelo de sala de análisis)
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4343,7 +4343,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Y aun así, todos llegaron a lo mismo.***
+***Y aun así, todos llegaron a lo mismo***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -4374,7 +4374,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: azul muy suave plano (reflexión/confusión)
+- Fondo: gris muy claro plano arriba (pared de laboratorio), suelo gris claro plano abajo — sala científica con detalles azul suave
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4418,7 +4418,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: azul muy suave plano (reflexión/confusión)
+- Fondo: gris muy claro plano arriba (pared de laboratorio), suelo gris claro plano abajo — sala científica con detalles azul suave
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4462,7 +4462,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: azul muy suave plano (reflexión/confusión)
+- Fondo: gris muy claro plano arriba (pared de laboratorio), suelo gris claro plano abajo — sala científica con detalles azul suave
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4598,7 +4598,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: marrón tierra suave plano (contexto primitivo)
+- Fondo: marrón rojizo pálido plano arriba (cielo exterior primitivo), suelo marrón oscuro plano abajo, una roca gris simple plana al fondo
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4642,7 +4642,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige cálido muy suave plano (comparativo)
+- Fondo: beige cálido muy suave plano arriba (pared neutra interior), suelo beige oscuro plano abajo — sala neutra simple
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4730,7 +4730,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: marrón tierra suave plano (contexto primitivo)
+- Fondo: marrón rojizo pálido plano arriba (cielo exterior primitivo), suelo marrón oscuro plano abajo, una roca gris simple plana al fondo
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4778,7 +4778,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige muy suave plano (narrativo/reflexivo)
+- Fondo: beige muy suave plano arriba (interior neutro), suelo beige oscuro plano abajo — interior simple, línea de suelo visible
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4870,7 +4870,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige cálido muy suave plano (descubrimiento)
+- Fondo: marrón rojizo pálido plano arriba (cielo exterior primitivo), suelo marrón oscuro plano abajo — exterior primitivo, horizonte simple
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -4958,7 +4958,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: gris muy claro plano (pérdida/melancólico)
+- Fondo: gris muy claro plano arriba (interior en penumbra), gris oscuro plano abajo — interior oscurecido, sin elementos adicionales
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -5107,7 +5107,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***No se lo llevó a la tumba.***
+***No se lo llevó a la tumba***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -5226,7 +5226,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige muy suave plano (narrativo/reflexivo)
+- Fondo: beige muy suave plano arriba (interior neutro), suelo beige oscuro plano abajo — interior simple, línea de suelo visible
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -5270,7 +5270,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige muy suave plano (narrativo/reflexivo)
+- Fondo: beige muy suave plano arriba (interior neutro), suelo beige oscuro plano abajo — interior simple, línea de suelo visible
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -5331,7 +5331,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***A veces se pierde.***
+***A veces se pierde***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
@@ -5362,7 +5362,7 @@ REGLAS DE COLOR Y FONDO (obligatorias):
 - Máximo 5 colores planos y sólidos en toda la imagen (incluyendo negro de contornos y color de fondo)
 - Sin gradientes, sin sombras, sin texturas — rellenos planos únicamente
 - Estilo de coloreado: ligeramente vago/descuidado, como coloreado a mano con rotuladores rápido
-- Fondo: beige cálido muy suave plano (descubrimiento/cierre)
+- Fondo: beige cálido muy suave plano arriba (pared interior), suelo beige oscuro plano abajo — interior neutro de cierre
 - El fondo refleja el contexto del guion, nunca blanco puro
 
 ESTILO VISUAL (mantener igual que la referencia):
@@ -5423,7 +5423,7 @@ The text is in Spanish. Reproduce it letter by letter.
 If a word looks like an English word, it is NOT English — it is Spanish. Do not translate it.
 Reproducing the exact text is the most important rule in this prompt.
 
-***Descubrir, a veces, es solo recordar.***
+***Descubrir, a veces, es solo recordar***
 
 The text between the triple asterisks above is the ONLY text allowed in the image.
 Do not add any other words, subtitles, captions, or labels.
